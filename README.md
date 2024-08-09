@@ -18,7 +18,7 @@ RFM Analysis Process:
 3. Segmentation: Classify customers into segments such as 'Champions', 'At Risk', 'Lost Customers', etc., based on their RFM scores.
 4. Analysis: Identify trends and patterns to guide marketing strategies and improve customer retention and sales.
 
-For detailed implementation, refer to [RFM_Analysis.ipynb](notebooks/RFM_analysis.ipynb).
+For detailed implementation, refer to [RFM_analysis.ipynb](notebooks/RFM_analysis.ipynb).
 
 ## Raw Data
 
@@ -135,7 +135,7 @@ Manufacturing and Financial Services are top industries by profit.
 - **Data Files**:
 
   Raw Data:   
-  [Raw_data.xlsx](notebooks/Raw_data.xlsx)
+  [Raw_data.xlsx](data/Raw_data.xlsx)
   
   Cleaned data:   
     [transaction_data_cleaned.csv](notebooks/transaction_data_cleaned.csv)  
@@ -152,7 +152,7 @@ Manufacturing and Financial Services are top industries by profit.
     [customer_address_cleaning.ipynb](notebooks/customer_address_cleaning.ipynb)  
 
   For RFM analysis and customer segmentation:   
-  [RFM_Analysis.ipynb](notebooks/RFM_analysis.ipynb)
+  [RFM_analysis.ipynb](notebooks/RFM_analysis.ipynb)
 
   For complete data analysis and visualization:   
     [combined_data_analysis.ipynb](notebooks/combined_data_analysis.ipynb)
