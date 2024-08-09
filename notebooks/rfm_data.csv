@@ -8,23 +8,23 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 7,253,3,995.38,1,1,1,111,Lost Customers
 8,22,10,12024.759999999998,4,5,5,455,Loyal Customers
 9,78,6,5357.549999999999,2,3,3,233,Lost Customers
-10,43,5,5003.75,3,2,2,322,Average Customers
-11,46,6,6779.4400000000005,3,3,4,334,Average Customers
+10,33,6,7067.83,3,3,4,334,Average Customers
+11,46,6,6779.4400000000005,3,3,3,333,Average Customers
 12,67,7,6394.21,2,4,3,243,Lost Customers
 13,27,7,7734.74,4,4,4,444,Potential Loyalists
-14,47,3,2509.3900000000003,3,1,1,311,Average Customers
+14,47,4,3593.57,3,1,1,311,Average Customers
 15,35,6,4923.34,3,3,2,332,Average Customers
-16,99,5,7763.79,2,2,4,224,Lost Customers
+16,99,5,7763.79,1,2,4,124,Lost Customers
 17,0,5,4676.1900000000005,5,2,2,522,New Customers
 18,134,7,8878.62,1,4,5,145, At Risk
 19,102,3,4238.1900000000005,1,1,2,112,Lost Customers
 20,31,4,6618.86,4,1,3,413,Average Customers
 21,6,5,7446.21,5,2,4,524,New Customers
 22,97,8,9546.35,2,4,5,245, At Risk
-23,10,6,6377.76,5,3,3,533,New Customers
-24,17,7,6885.51,4,4,4,444,Potential Loyalists
+23,10,7,8415.53,5,4,4,544,Potential Loyalists
+24,17,8,8078.950000000001,4,4,4,444,Potential Loyalists
 25,5,12,9996.33,5,5,5,555,Champions
-26,259,2,2245.85,1,1,1,111,Lost Customers
+26,113,3,3943.12,1,1,2,112,Lost Customers
 27,143,7,7679.97,1,4,4,144, At Risk
 28,83,6,5492.900000000001,2,3,3,233,Lost Customers
 29,22,9,10855.57,4,5,5,455,Loyal Customers
@@ -32,7 +32,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 31,89,4,3110.0,2,1,1,211,Lost Customers
 32,138,7,7873.18,1,4,4,144, At Risk
 33,38,7,9384.23,3,4,5,345,Average Customers
-34,102,8,12098.83,1,4,5,145, At Risk
+34,102,9,13133.0,1,5,5,155,Loyal Customers
 35,92,4,4182.28,2,1,2,212,Lost Customers
 36,163,2,1781.04,1,1,1,111,Lost Customers
 37,7,9,11291.71,5,5,5,555,Champions
@@ -50,37 +50,37 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 49,36,5,7582.92,3,2,4,324,Average Customers
 50,26,8,9252.66,4,4,5,445,Potential Loyalists
 51,55,8,9667.460000000001,3,4,5,345,Average Customers
-52,4,6,9779.71,5,3,5,535,New Customers
+52,4,7,10106.57,5,4,5,545,Potential Loyalists
 53,7,5,5472.74,5,2,3,523,New Customers
 54,67,7,9813.66,2,4,5,245, At Risk
-55,46,8,6754.21,3,4,4,344,Average Customers
+55,46,8,6754.21,3,4,3,343,Average Customers
 56,2,7,5060.86,5,4,2,542,New Customers
-57,35,6,8748.75,3,3,5,335,Average Customers
+57,35,6,8748.75,3,3,4,334,Average Customers
 58,20,8,6967.3099999999995,4,4,4,444,Potential Loyalists
 59,22,3,2797.47,4,1,1,411,Average Customers
 60,200,2,1526.9,1,1,1,111,Lost Customers
-61,47,6,7529.360000000001,3,3,4,334,Average Customers
+61,47,7,8397.28,3,4,4,344,Average Customers
 62,5,6,5845.950000000001,5,3,3,533,New Customers
 63,68,3,4156.66,2,1,2,212,Lost Customers
 64,3,5,4111.12,5,2,2,522,New Customers
 65,136,6,8056.469999999999,1,3,4,134,Lost Customers
 66,43,5,6489.33,3,2,3,323,Average Customers
-67,116,5,5304.15,1,2,3,123,Lost Customers
+67,116,5,5304.15,1,2,2,122,Lost Customers
 68,84,3,5127.98,2,1,2,212,Lost Customers
 69,20,6,8395.75,4,3,4,434,Average Customers
 70,4,5,4801.11,5,2,2,522,New Customers
 71,131,1,1415.01,1,1,1,111,Lost Customers
-72,22,4,4048.85,4,1,2,412,Average Customers
-73,168,6,5265.87,1,3,3,133,Lost Customers
+72,22,5,4360.42,4,2,2,422,Average Customers
+73,168,6,5265.87,1,3,2,132,Lost Customers
 74,28,3,2985.64,4,1,1,411,Average Customers
 75,60,8,7130.63,2,4,4,244, At Risk
 76,1,8,7425.04,5,4,4,544,Potential Loyalists
 77,101,3,2964.73,1,1,1,111,Lost Customers
 78,211,2,1139.12,1,1,1,111,Lost Customers
-79,43,6,6761.43,3,3,4,334,Average Customers
+79,43,6,6761.43,3,3,3,333,Average Customers
 80,28,10,12564.82,4,5,5,455,Loyal Customers
 81,4,4,4421.7,5,1,2,512,New Customers
-82,78,5,5293.91,2,2,3,223,Lost Customers
+82,78,5,5293.91,2,2,2,222,Lost Customers
 83,80,6,4464.65,2,3,2,232,Lost Customers
 84,28,7,5464.650000000001,4,4,3,443,Average Customers
 85,37,6,3158.6299999999997,3,3,1,331,Average Customers
@@ -91,10 +91,10 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 90,30,7,7703.58,4,4,4,444,Potential Loyalists
 91,9,8,8066.4400000000005,5,4,4,544,Potential Loyalists
 92,34,3,5098.43,3,1,2,312,Average Customers
-93,79,3,5276.129999999999,2,1,3,213,Lost Customers
+93,79,3,5276.129999999999,2,1,2,212,Lost Customers
 94,33,7,8305.77,3,4,4,344,Average Customers
 95,38,4,5049.799999999999,3,1,2,312,Average Customers
-96,70,3,2783.33,2,1,1,211,Lost Customers
+96,70,4,3874.84,2,1,2,212,Lost Customers
 97,102,8,8895.95,1,4,5,145, At Risk
 98,122,5,6180.05,1,2,3,123,Lost Customers
 99,2,9,8279.06,5,5,4,554,Potential Loyalists
@@ -102,7 +102,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 101,8,4,4309.82,5,1,2,512,New Customers
 102,42,7,6659.22,3,4,3,343,Average Customers
 103,49,5,4909.84,3,2,2,322,Average Customers
-104,64,8,7306.93,2,4,4,244, At Risk
+104,64,9,8985.64,2,5,5,255,Loyal Customers
 105,89,4,6234.35,2,1,3,213,Lost Customers
 106,1,3,2906.16,5,1,1,511,New Customers
 107,81,4,3345.1000000000004,2,1,1,211,Lost Customers
@@ -129,7 +129,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 128,137,4,3679.75,1,1,1,111,Lost Customers
 129,178,4,4090.48,1,1,2,112,Lost Customers
 130,76,2,3340.42,2,1,1,211,Lost Customers
-131,205,6,8745.28,1,3,5,135,Lost Customers
+131,205,6,8745.28,1,3,4,134,Lost Customers
 132,7,6,7365.93,5,3,4,534,New Customers
 133,26,5,3164.55,4,2,1,421,Average Customers
 134,14,6,7170.95,5,3,4,534,New Customers
@@ -149,10 +149,10 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 148,43,5,5808.83,3,2,3,323,Average Customers
 149,18,6,7091.73,4,3,4,434,Average Customers
 150,75,4,3630.96,2,1,1,211,Lost Customers
-151,0,7,11422.85,5,4,5,545,Potential Loyalists
+151,0,8,13047.54,5,4,5,545,Potential Loyalists
 152,158,2,2941.37,1,1,1,111,Lost Customers
 153,64,7,7808.16,2,4,4,244, At Risk
-154,23,5,3521.5299999999997,4,2,1,421,Average Customers
+154,23,6,3558.31,4,3,1,431,Average Customers
 155,8,3,4008.51,5,1,2,512,New Customers
 156,16,5,4831.58,4,2,2,422,Average Customers
 157,135,4,2541.39,1,1,1,111,Lost Customers
@@ -166,11 +166,11 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 165,8,9,9893.75,5,5,5,555,Champions
 166,63,8,9737.72,2,4,5,245, At Risk
 167,14,9,9888.61,5,5,5,555,Champions
-168,136,8,8563.42,1,4,4,144, At Risk
+168,136,9,10135.25,1,5,5,155,Loyal Customers
 169,61,3,2065.08,2,1,1,211,Lost Customers
 170,100,4,4254.31,1,1,2,112,Lost Customers
-171,18,8,9347.85,4,4,5,445,Potential Loyalists
-172,11,7,9250.22,5,4,5,545,Potential Loyalists
+171,18,9,9865.380000000001,4,5,5,455,Loyal Customers
+172,11,8,10150.14,5,4,5,545,Potential Loyalists
 173,15,9,14061.48,4,5,5,455,Loyal Customers
 174,11,10,12893.57,5,5,5,555,Champions
 175,64,5,6008.03,2,2,3,223,Lost Customers
@@ -179,7 +179,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 178,32,4,3504.09,4,1,1,411,Average Customers
 179,40,3,3168.84,3,1,1,311,Average Customers
 180,11,7,7970.57,5,4,4,544,Potential Loyalists
-181,50,5,4262.27,3,2,2,322,Average Customers
+181,50,6,5663.9,3,3,3,333,Average Customers
 182,13,7,9279.01,5,4,5,545,Potential Loyalists
 183,102,6,5947.98,1,3,3,133,Lost Customers
 184,32,3,3734.88,4,1,1,411,Average Customers
@@ -214,10 +214,10 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 213,28,11,13555.56,4,5,5,455,Loyal Customers
 214,56,6,6834.46,3,3,4,334,Average Customers
 215,3,8,8485.16,5,4,4,544,Potential Loyalists
-216,16,4,4801.610000000001,4,1,2,412,Average Customers
+216,16,5,5830.97,4,2,3,423,Average Customers
 217,4,8,11465.25,5,4,5,545,Potential Loyalists
-218,14,4,3125.6,5,1,1,511,New Customers
-219,40,6,6156.27,3,3,3,333,Average Customers
+218,14,5,4232.68,5,2,2,522,New Customers
+219,40,7,7915.57,3,4,4,344,Average Customers
 220,15,6,7458.69,4,3,4,434,Average Customers
 221,18,6,6729.84,4,3,3,433,Average Customers
 222,20,2,2626.81,4,1,1,411,Average Customers
@@ -232,17 +232,17 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 231,45,4,5338.64,3,1,3,313,Average Customers
 232,141,6,4132.44,1,3,2,132,Lost Customers
 233,17,6,5218.62,4,3,2,432,Average Customers
-234,11,9,11070.19,5,5,5,555,Champions
+234,11,10,11557.99,5,5,5,555,Champions
 235,2,11,9629.61,5,5,5,555,Champions
-236,6,4,5255.34,5,1,3,513,New Customers
+236,6,4,5255.34,5,1,2,512,New Customers
 237,26,8,7156.79,4,4,4,444,Potential Loyalists
 238,107,5,5838.6,1,2,3,123,Lost Customers
 239,1,9,12986.130000000001,5,5,5,555,Champions
 240,88,6,5689.53,2,3,3,233,Lost Customers
 241,47,4,3855.87,3,1,2,312,Average Customers
 242,131,7,7798.25,1,4,4,144, At Risk
-243,74,5,6741.57,2,2,4,224,Lost Customers
-244,194,3,4356.25,1,1,2,112,Lost Customers
+243,74,6,8818.380000000001,2,3,5,235,Lost Customers
+244,194,4,6290.66,1,1,3,113,Lost Customers
 245,12,5,4855.26,5,2,2,522,New Customers
 246,27,9,9724.98,4,5,5,455,Loyal Customers
 247,112,7,9778.37,1,4,5,145, At Risk
@@ -253,7 +253,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 252,62,5,5565.48,2,2,3,223,Lost Customers
 253,17,5,2932.39,4,2,1,421,Average Customers
 254,41,7,9801.07,3,4,5,345,Average Customers
-255,57,11,14027.76,3,5,5,355,Loyal Customers
+255,57,12,14949.91,3,5,5,355,Loyal Customers
 256,0,5,5861.16,5,2,3,523,New Customers
 257,92,5,7616.05,2,2,4,224,Lost Customers
 258,18,5,4816.4,4,2,2,422,Average Customers
@@ -262,7 +262,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 261,50,9,9137.67,3,5,5,355,Loyal Customers
 262,10,5,4597.37,5,2,2,522,New Customers
 263,46,7,7902.84,3,4,4,344,Average Customers
-264,48,4,2339.8599999999997,3,1,1,311,Average Customers
+264,48,5,4018.37,3,2,2,322,Average Customers
 265,79,4,4809.14,2,1,2,212,Lost Customers
 266,32,4,4191.43,4,1,2,412,Average Customers
 267,130,4,5029.25,1,1,2,112,Lost Customers
@@ -287,16 +287,16 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 286,137,4,6402.0599999999995,1,1,3,113,Lost Customers
 287,138,1,2083.94,1,1,1,111,Lost Customers
 288,44,4,3936.5699999999997,3,1,2,312,Average Customers
-289,44,9,9320.12,3,5,5,355,Loyal Customers
+289,44,10,11383.07,3,5,5,355,Loyal Customers
 290,11,5,5912.93,5,2,3,523,New Customers
 291,40,2,983.55,3,1,1,311,Average Customers
 292,58,7,8825.97,3,4,5,345,Average Customers
 293,10,5,5175.56,5,2,2,522,New Customers
-294,115,7,8719.14,1,4,5,145, At Risk
+294,115,7,8719.14,1,4,4,144, At Risk
 295,34,7,5956.46,3,4,3,343,Average Customers
 296,8,3,4016.36,5,1,2,512,New Customers
 297,8,4,5674.71,5,1,3,513,New Customers
-298,8,10,11393.82,5,5,5,555,Champions
+298,8,11,12420.52,5,5,5,555,Champions
 299,92,7,10296.12,2,4,5,245, At Risk
 300,156,5,7003.74,1,2,4,124,Lost Customers
 301,93,2,361.78,2,1,1,211,Lost Customers
@@ -323,13 +323,13 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 322,1,12,14782.23,5,5,5,555,Champions
 323,35,6,4992.110000000001,3,3,2,332,Average Customers
 324,21,5,2711.14,4,2,1,421,Average Customers
-325,133,6,7543.92,1,3,4,134,Lost Customers
+325,133,7,9377.09,1,4,5,145, At Risk
 326,161,3,3419.08,1,1,1,111,Lost Customers
 327,16,5,6108.21,4,2,3,423,Average Customers
 328,4,8,5739.53,5,4,3,543,New Customers
 329,34,6,5425.24,3,3,3,333,Average Customers
 330,107,6,8513.2,1,3,4,134,Lost Customers
-331,82,6,7052.26,2,3,4,234,Lost Customers
+331,82,7,8593.36,2,4,4,244, At Risk
 332,263,2,1362.46,1,1,1,111,Lost Customers
 333,22,7,6422.91,4,4,3,443,Average Customers
 334,56,6,6125.9,3,3,3,333,Average Customers
@@ -375,7 +375,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 374,13,6,7756.64,5,3,4,534,New Customers
 375,91,4,3460.33,2,1,1,211,Lost Customers
 376,43,3,1981.8899999999999,3,1,1,311,Average Customers
-377,6,12,10730.42,5,5,5,555,Champions
+377,6,13,11607.86,5,5,5,555,Champions
 378,124,7,5827.91,1,4,3,143,Lost Customers
 379,145,2,2849.83,1,1,1,111,Lost Customers
 380,35,8,10261.59,3,4,5,345,Average Customers
@@ -385,7 +385,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 384,85,5,5068.24,2,2,2,222,Lost Customers
 385,78,9,10758.23,2,5,5,255,Loyal Customers
 386,66,5,5445.4400000000005,2,2,3,223,Lost Customers
-387,31,3,5303.1,4,1,3,413,Average Customers
+387,31,3,5303.1,4,1,2,412,Average Customers
 388,55,3,2857.55,3,1,1,311,Average Customers
 389,113,6,3948.4300000000003,1,3,2,132,Lost Customers
 390,76,6,4490.52,2,3,2,232,Lost Customers
@@ -395,7 +395,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 394,45,8,7818.74,3,4,4,344,Average Customers
 395,30,7,7802.49,4,4,4,444,Potential Loyalists
 396,29,6,6560.6900000000005,4,3,3,433,Average Customers
-397,45,5,3791.1,3,2,2,322,Average Customers
+397,45,6,4641.1,3,3,2,332,Average Customers
 398,12,7,4446.48,5,4,2,542,New Customers
 399,49,6,7848.56,3,3,4,334,Average Customers
 400,134,5,4266.01,1,2,2,122,Lost Customers
@@ -406,16 +406,16 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 405,14,6,7468.88,5,3,4,534,New Customers
 406,106,6,5892.509999999999,1,3,3,133,Lost Customers
 407,9,9,7837.83,5,5,4,554,Potential Loyalists
-408,17,5,5252.97,4,2,3,423,Average Customers
+408,17,5,5252.97,4,2,2,422,Average Customers
 409,13,4,3610.11,5,1,1,511,New Customers
 410,6,7,5472.9,5,4,3,543,New Customers
 411,187,5,5130.24,1,2,2,122,Lost Customers
 412,27,3,3041.12,4,1,1,411,Average Customers
-413,167,5,5306.63,1,2,3,123,Lost Customers
+413,167,5,5306.63,1,2,2,122,Lost Customers
 414,47,6,4770.45,3,3,2,332,Average Customers
 415,248,2,3670.0,1,1,1,111,Lost Customers
 416,88,5,4670.05,2,2,2,222,Lost Customers
-417,70,7,8689.25,2,4,4,244, At Risk
+417,70,8,9905.65,2,4,5,245, At Risk
 418,28,6,6298.139999999999,4,3,3,433,Average Customers
 419,14,7,7917.43,5,4,4,544,Potential Loyalists
 420,59,10,11080.54,2,5,5,255,Loyal Customers
@@ -429,7 +429,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 428,51,8,9009.45,3,4,5,345,Average Customers
 429,18,8,8631.57,4,4,4,444,Potential Loyalists
 430,65,6,7494.51,2,3,4,234,Lost Customers
-431,138,1,1289.85,1,1,1,111,Lost Customers
+431,98,2,3232.46,2,1,1,211,Lost Customers
 432,21,8,9237.06,4,4,5,445,Potential Loyalists
 433,15,9,10236.83,4,5,5,455,Loyal Customers
 434,297,2,1945.46,1,1,1,111,Lost Customers
@@ -437,16 +437,16 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 436,50,3,3374.59,3,1,1,311,Average Customers
 437,48,6,5595.76,3,3,3,333,Average Customers
 438,51,8,12777.29,3,4,5,345,Average Customers
-439,99,6,6584.91,2,3,3,233,Lost Customers
+439,99,6,6584.91,1,3,3,133,Lost Customers
 440,11,8,7773.05,5,4,4,544,Potential Loyalists
 441,62,3,2910.7200000000003,2,1,1,211,Lost Customers
 442,13,7,5714.68,5,4,3,543,New Customers
-443,205,6,6781.389999999999,1,3,4,134,Lost Customers
+443,4,7,7525.93,5,4,4,544,Potential Loyalists
 444,45,7,7147.11,3,4,4,344,Average Customers
 445,24,11,14593.220000000001,4,5,5,455,Loyal Customers
 446,52,8,10683.11,3,4,5,345,Average Customers
 447,0,6,6502.92,5,3,3,533,New Customers
-448,188,4,4424.38,1,1,2,112,Lost Customers
+448,188,5,6085.0599999999995,1,2,3,123,Lost Customers
 449,133,6,6240.950000000001,1,3,3,133,Lost Customers
 450,82,4,5369.55,2,1,3,213,Lost Customers
 451,66,6,5925.52,2,3,3,233,Lost Customers
@@ -465,7 +465,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 464,9,6,8289.86,5,3,4,534,New Customers
 465,4,6,4766.91,5,3,2,532,New Customers
 466,40,7,6597.52,3,4,3,343,Average Customers
-467,169,6,7065.389999999999,1,3,4,134,Lost Customers
+467,169,7,9085.53,1,4,5,145, At Risk
 468,94,6,7264.86,2,3,4,234,Lost Customers
 469,101,10,7566.66,1,5,4,154, At Risk
 470,9,7,7158.48,5,4,4,544,Potential Loyalists
@@ -490,7 +490,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 489,124,5,5450.6900000000005,1,2,3,123,Lost Customers
 490,53,9,9886.75,3,5,5,355,Loyal Customers
 491,68,7,6140.67,2,4,3,243,Lost Customers
-492,89,4,5248.15,2,1,3,213,Lost Customers
+492,89,4,5248.15,2,1,2,212,Lost Customers
 493,75,3,607.78,2,1,1,211,Lost Customers
 494,133,3,2524.5299999999997,1,1,1,111,Lost Customers
 495,128,6,6120.139999999999,1,3,3,133,Lost Customers
@@ -501,11 +501,11 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 500,24,8,9381.92,4,4,5,445,Potential Loyalists
 501,128,4,3118.51,1,1,1,111,Lost Customers
 502,131,5,4852.31,1,2,2,122,Lost Customers
-503,83,3,2643.58,2,1,1,211,Lost Customers
+503,83,4,3993.05,2,1,2,212,Lost Customers
 504,136,8,7145.67,1,4,4,144, At Risk
 505,14,5,6456.41,5,2,3,523,New Customers
 506,56,10,14208.25,3,5,5,355,Loyal Customers
-507,36,7,7567.66,3,4,4,344,Average Customers
+507,36,8,9146.18,3,4,5,345,Average Customers
 508,155,6,7648.2,1,3,4,134,Lost Customers
 509,89,6,6017.45,2,3,3,233,Lost Customers
 510,59,2,3333.38,2,1,1,211,Lost Customers
@@ -529,7 +529,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 528,134,7,7737.110000000001,1,4,4,144, At Risk
 529,12,6,6036.22,5,3,3,533,New Customers
 530,162,3,2816.79,1,1,1,111,Lost Customers
-531,61,5,4164.33,2,2,2,222,Lost Customers
+531,61,6,5691.58,2,3,3,233,Lost Customers
 532,28,6,7503.2699999999995,4,3,4,434,Average Customers
 533,2,6,8210.1,5,3,4,534,New Customers
 534,6,8,8223.81,5,4,4,544,Potential Loyalists
@@ -543,7 +543,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 542,38,6,6399.45,3,3,3,333,Average Customers
 543,0,5,4605.8,5,2,2,522,New Customers
 544,173,4,4228.66,1,1,2,112,Lost Customers
-545,6,6,8697.36,5,3,5,535,New Customers
+545,6,6,8697.36,5,3,4,534,New Customers
 546,37,5,7164.9,3,2,4,324,Average Customers
 547,74,6,5913.53,2,3,3,233,Lost Customers
 548,10,7,7497.25,5,4,4,544,Potential Loyalists
@@ -553,7 +553,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 552,159,4,2960.2700000000004,1,1,1,111,Lost Customers
 553,19,6,6913.18,4,3,4,434,Average Customers
 554,38,3,2306.3799999999997,3,1,1,311,Average Customers
-555,165,4,5261.73,1,1,3,113,Lost Customers
+555,165,4,5261.73,1,1,2,112,Lost Customers
 556,9,5,6960.33,5,2,4,524,New Customers
 557,181,2,1834.45,1,1,1,111,Lost Customers
 558,35,7,6984.320000000001,3,4,4,344,Average Customers
@@ -584,8 +584,8 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 583,31,4,4129.98,4,1,2,412,Average Customers
 584,132,4,3399.5199999999995,1,1,1,111,Lost Customers
 585,97,7,8197.14,2,4,4,244, At Risk
-586,90,3,4165.02,2,1,2,212,Lost Customers
-587,53,6,6833.56,3,3,4,334,Average Customers
+586,90,4,5603.92,2,1,3,213,Lost Customers
+587,53,7,8623.87,3,4,4,344,Average Customers
 588,19,5,6053.33,4,2,3,423,Average Customers
 589,10,3,3259.93,5,1,1,511,New Customers
 590,43,12,14475.62,3,5,5,355,Loyal Customers
@@ -640,7 +640,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 639,8,6,5831.55,5,3,3,533,New Customers
 640,10,8,11141.29,5,4,5,545,Potential Loyalists
 641,202,4,3853.34,1,1,2,112,Lost Customers
-642,24,7,5304.37,4,4,3,443,Average Customers
+642,24,7,5304.37,4,4,2,442,Average Customers
 643,197,4,5034.78,1,1,2,112,Lost Customers
 644,157,3,1808.74,1,1,1,111,Lost Customers
 645,116,7,9008.59,1,4,5,145, At Risk
@@ -656,7 +656,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 655,51,6,8876.49,3,3,5,335,Average Customers
 656,10,8,8438.35,5,4,4,544,Potential Loyalists
 657,76,6,6640.48,2,3,3,233,Lost Customers
-658,97,5,5305.31,2,2,3,223,Lost Customers
+658,97,5,5305.31,2,2,2,222,Lost Customers
 659,146,3,5140.610000000001,1,1,2,112,Lost Customers
 660,12,4,5360.139999999999,5,1,3,513,New Customers
 661,34,6,5564.07,3,3,3,333,Average Customers
@@ -674,7 +674,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 673,2,5,3435.2200000000003,5,2,1,521,New Customers
 674,115,6,6404.85,1,3,3,133,Lost Customers
 675,0,3,4204.51,5,1,2,512,New Customers
-676,33,6,6739.82,3,3,4,334,Average Customers
+676,33,6,6739.82,3,3,3,333,Average Customers
 677,71,5,3703.87,2,2,1,221,Lost Customers
 678,94,4,3152.34,2,1,1,211,Lost Customers
 679,62,10,8300.07,2,5,4,254, At Risk
@@ -694,7 +694,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 693,10,5,6667.92,5,2,3,523,New Customers
 694,7,5,4359.78,5,2,2,522,New Customers
 695,16,8,10407.64,4,4,5,445,Potential Loyalists
-696,21,6,3720.1,4,3,1,431,Average Customers
+696,21,7,4822.78,4,4,2,442,Average Customers
 697,11,4,5888.76,5,1,3,513,New Customers
 698,76,3,3362.66,2,1,1,211,Lost Customers
 699,55,3,2655.81,3,1,1,311,Average Customers
@@ -703,21 +703,21 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 702,62,3,3825.6600000000003,2,1,2,212,Lost Customers
 703,1,5,7301.150000000001,5,2,4,524,New Customers
 704,10,10,10881.81,5,5,5,555,Champions
-705,11,4,2127.86,5,1,1,511,New Customers
+705,11,5,3745.1800000000003,5,2,1,521,New Customers
 706,30,6,10040.5,4,3,5,435,Average Customers
 707,44,6,7563.61,3,3,4,334,Average Customers
 708,175,3,3149.0299999999997,1,1,1,111,Lost Customers
 709,146,5,5948.8099999999995,1,2,3,123,Lost Customers
 710,39,7,9823.81,3,4,5,345,Average Customers
-711,83,4,3784.83,2,1,2,212,Lost Customers
+711,83,4,3784.83,2,1,1,211,Lost Customers
 712,61,8,9223.66,2,4,5,245, At Risk
 713,255,4,4564.42,1,1,2,112,Lost Customers
-714,59,10,10339.54,2,5,5,255,Loyal Customers
+714,59,11,10441.09,2,5,5,255,Loyal Customers
 715,158,3,4278.66,1,1,2,112,Lost Customers
 716,12,6,6680.78,5,3,3,533,New Customers
 717,14,6,4696.91,5,3,2,532,New Customers
-718,34,8,6777.43,3,4,4,344,Average Customers
-719,11,8,10796.76,5,4,5,545,Potential Loyalists
+718,34,8,6777.43,3,4,3,343,Average Customers
+719,11,9,12020.0,5,5,5,555,Champions
 720,20,10,13004.35,4,5,5,455,Loyal Customers
 721,4,7,8883.609999999999,5,4,5,545,Potential Loyalists
 722,87,5,6548.61,2,2,3,223,Lost Customers
@@ -729,7 +729,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 728,25,9,10919.45,4,5,5,455,Loyal Customers
 729,1,10,15826.0,5,5,5,555,Champions
 730,14,7,6529.49,5,4,3,543,New Customers
-731,25,5,4442.07,4,2,2,422,Average Customers
+731,25,6,6259.200000000001,4,3,3,433,Average Customers
 732,64,5,6099.150000000001,2,2,3,223,Lost Customers
 733,46,10,14532.51,3,5,5,355,Loyal Customers
 734,89,3,3346.12,2,1,1,211,Lost Customers
@@ -762,7 +762,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 761,145,5,6483.68,1,2,3,123,Lost Customers
 762,85,5,3989.6800000000003,2,2,2,222,Lost Customers
 763,74,6,6989.88,2,3,4,234,Lost Customers
-764,79,3,3627.46,2,1,1,211,Lost Customers
+764,79,4,4122.42,2,1,2,212,Lost Customers
 765,24,10,8794.98,4,5,5,455,Loyal Customers
 766,16,6,4962.24,4,3,2,432,Average Customers
 767,42,5,6197.59,3,2,3,323,Average Customers
@@ -776,10 +776,10 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 775,58,7,6985.21,3,4,4,344,Average Customers
 776,13,9,9151.17,5,5,5,555,Champions
 777,27,6,5113.99,4,3,2,432,Average Customers
-778,245,4,4581.54,1,1,2,112,Lost Customers
+778,33,5,6292.889999999999,3,2,3,323,Average Customers
 779,82,5,4372.34,2,2,2,222,Lost Customers
 780,88,3,3499.7200000000003,2,1,1,211,Lost Customers
-781,125,5,3763.4600000000005,1,2,2,122,Lost Customers
+781,125,5,3763.4600000000005,1,2,1,121,Lost Customers
 782,25,6,10216.48,4,3,5,435,Average Customers
 783,96,5,6170.6,2,2,3,223,Lost Customers
 784,143,2,760.18,1,1,1,111,Lost Customers
@@ -809,8 +809,8 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 808,123,3,3676.8199999999997,1,1,1,111,Lost Customers
 809,45,4,3653.47,3,1,1,311,Average Customers
 810,68,4,4539.42,2,1,2,212,Lost Customers
-811,174,3,1388.03,1,1,1,111,Lost Customers
-812,197,2,1400.23,1,1,1,111,Lost Customers
+811,174,4,2483.69,1,1,1,111,Lost Customers
+812,197,3,2694.8900000000003,1,1,1,111,Lost Customers
 813,50,5,4386.05,3,2,2,322,Average Customers
 814,48,3,4661.23,3,1,2,312,Average Customers
 815,27,6,7646.77,4,3,4,434,Average Customers
@@ -818,7 +818,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 817,16,5,5340.0,4,2,3,423,Average Customers
 818,40,6,6141.46,3,3,3,333,Average Customers
 819,43,5,5033.21,3,2,2,322,Average Customers
-820,3,10,8742.57,5,5,5,555,Champions
+820,3,10,8742.57,5,5,4,554,Potential Loyalists
 821,33,5,4826.39,3,2,2,322,Average Customers
 822,328,1,2005.66,1,1,1,111,Lost Customers
 823,23,6,9755.81,4,3,5,435,Average Customers
@@ -826,7 +826,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 825,10,8,6046.6900000000005,5,4,3,543,New Customers
 826,4,4,4829.57,5,1,2,512,New Customers
 827,49,8,9051.45,3,4,5,345,Average Customers
-828,79,5,3777.5299999999997,2,2,2,222,Lost Customers
+828,79,5,3777.5299999999997,2,2,1,221,Lost Customers
 829,12,6,9236.19,5,3,5,535,New Customers
 830,149,6,6106.9400000000005,1,3,3,133,Lost Customers
 831,11,5,4245.84,5,2,2,522,New Customers
@@ -845,7 +845,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 844,31,9,12523.55,4,5,5,455,Loyal Customers
 845,97,4,3639.43,2,1,1,211,Lost Customers
 846,82,3,4385.62,2,1,2,212,Lost Customers
-847,114,4,4928.17,1,1,2,112,Lost Customers
+847,114,5,5363.83,1,2,3,123,Lost Customers
 848,140,4,4711.04,1,1,2,112,Lost Customers
 849,27,6,6086.66,4,3,3,433,Average Customers
 850,34,8,7476.79,3,4,4,344,Average Customers
@@ -866,8 +866,8 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 866,98,5,7599.92,2,2,4,224,Lost Customers
 867,293,6,7947.42,1,3,4,134,Lost Customers
 868,83,6,7529.639999999999,2,3,4,234,Lost Customers
-870,100,7,6201.42,1,4,3,143,Lost Customers
-871,54,8,8700.560000000001,3,4,5,345,Average Customers
+870,61,8,6364.29,2,4,3,243,Lost Customers
+871,54,8,8700.560000000001,3,4,4,344,Average Customers
 872,171,1,290.62,1,1,1,111,Lost Customers
 873,31,5,4426.2,4,2,2,422,Average Customers
 874,46,8,8569.99,3,4,4,344,Average Customers
@@ -880,7 +880,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 881,147,3,5353.86,1,1,3,113,Lost Customers
 882,112,5,6628.360000000001,1,2,3,123,Lost Customers
 883,47,4,2114.02,3,1,1,311,Average Customers
-884,1,5,9210.74,5,2,5,525,New Customers
+884,1,6,10922.09,5,3,5,535,New Customers
 885,7,3,3628.9399999999996,5,1,1,511,New Customers
 886,1,7,9025.03,5,4,5,545,Potential Loyalists
 887,39,8,10938.66,3,4,5,345,Average Customers
@@ -893,7 +893,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 894,48,8,7512.48,3,4,4,344,Average Customers
 895,61,3,2714.21,2,1,1,211,Lost Customers
 896,38,4,4448.32,3,1,2,312,Average Customers
-897,98,7,9317.64,2,4,5,245, At Risk
+897,98,8,9629.18,2,4,5,245, At Risk
 898,205,1,478.16,1,1,1,111,Lost Customers
 899,49,6,4240.0599999999995,3,3,2,332,Average Customers
 900,12,4,2446.44,5,1,1,511,New Customers
@@ -907,21 +907,21 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 908,4,7,4679.15,5,4,2,542,New Customers
 909,189,5,8560.51,1,2,4,124,Lost Customers
 910,272,2,1932.55,1,1,1,111,Lost Customers
-911,56,5,3792.6,3,2,2,322,Average Customers
+911,56,5,3792.6,3,2,1,321,Average Customers
 912,40,7,7206.52,3,4,4,344,Average Customers
-913,113,4,5401.41,1,1,3,113,Lost Customers
+913,63,5,5573.5,2,2,3,223,Lost Customers
 914,106,5,5533.82,1,2,3,123,Lost Customers
 915,28,5,4802.6,4,2,2,422,Average Customers
-916,36,4,4884.0,3,1,2,312,Average Customers
+916,36,5,5850.91,3,2,3,323,Average Customers
 917,35,8,7452.88,3,4,4,344,Average Customers
-918,16,5,5684.7,4,2,3,423,Average Customers
+918,16,6,6040.75,4,3,3,433,Average Customers
 919,80,9,10701.04,2,5,5,255,Loyal Customers
 920,90,6,6259.75,2,3,3,233,Lost Customers
 921,44,8,11852.14,3,4,5,345,Average Customers
-922,188,1,569.56,1,1,1,111,Lost Customers
+922,188,2,1768.82,1,1,1,111,Lost Customers
 923,32,7,6019.1900000000005,4,4,3,443,Average Customers
 924,109,9,8254.23,1,5,4,154, At Risk
-925,12,9,10701.39,5,5,5,555,Champions
+925,12,10,10850.689999999999,5,5,5,555,Champions
 926,12,6,5627.58,5,3,3,533,New Customers
 927,295,3,3712.1099999999997,1,1,1,111,Lost Customers
 928,11,8,6370.69,5,4,3,543,New Customers
@@ -943,7 +943,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 944,85,8,4915.05,2,4,2,242,Lost Customers
 945,14,7,9247.25,5,4,5,545,Potential Loyalists
 946,2,8,10866.75,5,4,5,545,Potential Loyalists
-947,80,5,5493.35,2,2,3,223,Lost Customers
+947,80,6,6685.68,2,3,3,233,Lost Customers
 948,100,3,3541.6,1,1,1,111,Lost Customers
 949,88,6,6945.2699999999995,2,3,4,234,Lost Customers
 950,32,7,8329.7,4,4,4,444,Potential Loyalists
@@ -957,21 +957,21 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 958,34,6,5470.129999999999,3,3,3,333,Average Customers
 959,76,6,5701.85,2,3,3,233,Lost Customers
 960,78,4,5971.35,2,1,3,213,Lost Customers
-961,64,3,3792.14,2,1,2,212,Lost Customers
+961,64,4,4158.360000000001,2,1,2,212,Lost Customers
 962,2,7,5930.2699999999995,5,4,3,543,New Customers
 963,60,12,12068.12,2,5,5,255,Loyal Customers
 964,1,5,4224.59,5,2,2,522,New Customers
 965,60,4,5232.65,2,1,2,212,Lost Customers
 966,13,4,1885.61,5,1,1,511,New Customers
 967,66,4,5974.77,2,1,3,213,Lost Customers
-968,35,7,9141.34,3,4,5,345,Average Customers
+968,35,8,10289.75,3,4,5,345,Average Customers
 969,17,5,6968.38,4,2,4,424,Average Customers
 970,33,5,6237.67,3,2,3,323,Average Customers
 971,48,5,5862.57,3,2,3,323,Average Customers
 972,175,2,3318.8099999999995,1,1,1,111,Lost Customers
 973,8,8,12724.26,5,4,5,545,Potential Loyalists
 974,6,6,6929.71,5,3,4,534,New Customers
-975,10,8,9093.88,5,4,5,545,Potential Loyalists
+975,10,9,9499.82,5,5,5,555,Champions
 976,170,6,6710.5599999999995,1,3,3,133,Lost Customers
 977,41,5,5149.34,3,2,2,322,Average Customers
 978,192,5,4373.97,1,2,2,122,Lost Customers
@@ -985,7 +985,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 986,75,8,8673.32,2,4,4,244, At Risk
 987,22,8,8979.65,4,4,5,445,Potential Loyalists
 988,112,2,769.14,1,1,1,111,Lost Customers
-989,25,5,6725.91,4,2,3,423,Average Customers
+989,25,6,6782.12,4,3,3,433,Average Customers
 990,11,7,8441.6,5,4,4,544,Potential Loyalists
 991,147,6,7774.3,1,3,4,134,Lost Customers
 992,95,2,2986.45,2,1,1,211,Lost Customers
@@ -1006,7 +1006,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1007,20,7,8532.46,4,4,4,444,Potential Loyalists
 1008,17,4,5409.6900000000005,4,1,3,413,Average Customers
 1009,54,5,5787.36,3,2,3,323,Average Customers
-1010,126,3,1501.59,1,1,1,111,Lost Customers
+1010,126,4,2816.75,1,1,1,111,Lost Customers
 1011,242,3,3940.1800000000003,1,1,2,112,Lost Customers
 1012,9,4,5094.62,5,1,2,512,New Customers
 1013,95,6,7207.57,2,3,4,234,Lost Customers
@@ -1022,7 +1022,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1023,125,2,1579.3899999999999,1,1,1,111,Lost Customers
 1024,34,8,9592.029999999999,3,4,5,345,Average Customers
 1025,60,8,8141.29,2,4,4,244, At Risk
-1026,29,6,4769.8099999999995,4,3,2,432,Average Customers
+1026,29,7,5413.76,4,4,3,443,Average Customers
 1027,24,6,6580.15,4,3,3,433,Average Customers
 1028,8,7,12001.41,5,4,5,545,Potential Loyalists
 1029,30,6,6223.08,4,3,3,433,Average Customers
@@ -1039,7 +1039,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1040,161,4,4072.65,1,1,2,112,Lost Customers
 1041,20,4,4271.03,4,1,2,412,Average Customers
 1042,35,3,4585.77,3,1,2,312,Average Customers
-1043,154,8,10994.24,1,4,5,145, At Risk
+1043,130,10,14313.43,1,5,5,155,Loyal Customers
 1044,112,5,4616.29,1,2,2,122,Lost Customers
 1045,113,3,4405.6,1,1,2,112,Lost Customers
 1046,52,5,3846.1,3,2,2,322,Average Customers
@@ -1071,10 +1071,10 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1072,46,3,3697.58,3,1,1,311,Average Customers
 1073,17,6,6454.889999999999,4,3,3,433,Average Customers
 1074,16,8,9370.01,4,4,5,445,Potential Loyalists
-1075,67,6,6597.82,2,3,3,233,Lost Customers
+1075,67,7,6623.97,2,4,3,243,Lost Customers
 1076,9,12,14390.1,5,5,5,555,Champions
 1077,5,6,6570.4400000000005,5,3,3,533,New Customers
-1078,18,5,3640.2200000000003,4,2,1,421,Average Customers
+1078,18,6,5117.1,4,3,2,432,Average Customers
 1079,17,4,3829.1099999999997,4,1,2,412,Average Customers
 1080,47,3,3133.43,3,1,1,311,Average Customers
 1081,11,5,6119.719999999999,5,2,3,523,New Customers
@@ -1087,13 +1087,13 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1088,13,6,6230.39,5,3,3,533,New Customers
 1089,151,7,6202.85,1,4,3,143,Lost Customers
 1090,71,7,5882.43,2,4,3,243,Lost Customers
-1091,4,10,10147.25,5,5,5,555,Champions
+1091,4,11,10303.810000000001,5,5,5,555,Champions
 1092,202,5,4893.719999999999,1,2,2,122,Lost Customers
-1093,99,9,12492.4,2,5,5,255,Loyal Customers
+1093,99,9,12492.4,1,5,5,155,Loyal Customers
 1094,43,7,7255.12,3,4,4,344,Average Customers
 1095,14,4,6916.039999999999,5,1,4,514,New Customers
 1096,55,5,3865.37,3,2,2,322,Average Customers
-1097,188,3,2378.5099999999998,1,1,1,111,Lost Customers
+1097,76,4,4367.8099999999995,2,1,2,212,Lost Customers
 1098,8,8,7594.29,5,4,4,544,Potential Loyalists
 1099,110,2,1248.96,1,1,1,111,Lost Customers
 1100,45,3,2767.35,3,1,1,311,Average Customers
@@ -1119,11 +1119,11 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1120,1,6,5386.26,5,3,3,533,New Customers
 1121,7,2,2973.36,5,1,1,511,New Customers
 1122,26,5,4714.81,4,2,2,422,Average Customers
-1123,10,5,6742.5,5,2,4,524,New Customers
+1123,10,5,6742.5,5,2,3,523,New Customers
 1124,44,3,3731.08,3,1,1,311,Average Customers
-1125,29,5,3793.5699999999997,4,2,2,422,Average Customers
+1125,29,5,3793.5699999999997,4,2,1,421,Average Customers
 1126,19,4,4725.4400000000005,4,1,2,412,Average Customers
-1127,136,4,5261.43,1,1,3,113,Lost Customers
+1127,136,4,5261.43,1,1,2,112,Lost Customers
 1128,26,5,5855.4400000000005,4,2,3,423,Average Customers
 1129,26,13,18349.27,4,5,5,455,Loyal Customers
 1130,117,5,6301.28,1,2,3,123,Lost Customers
@@ -1168,7 +1168,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1169,62,7,7605.57,2,4,4,244, At Risk
 1170,86,5,6345.1,2,2,3,223,Lost Customers
 1171,34,9,9811.45,3,5,5,355,Loyal Customers
-1172,44,5,6054.04,3,2,3,323,Average Customers
+1172,44,6,7200.46,3,3,4,334,Average Customers
 1173,108,3,2042.9699999999998,1,1,1,111,Lost Customers
 1174,8,3,3466.9300000000003,5,1,1,511,New Customers
 1175,218,2,2449.24,1,1,1,111,Lost Customers
@@ -1178,11 +1178,11 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1179,7,4,6441.950000000001,5,1,3,513,New Customers
 1180,59,4,3870.83,2,1,2,212,Lost Customers
 1181,44,10,9928.33,3,5,5,355,Loyal Customers
-1182,5,7,7826.4400000000005,5,4,4,544,Potential Loyalists
+1182,5,8,9588.19,5,4,5,545,Potential Loyalists
 1183,153,5,7060.07,1,2,4,124,Lost Customers
 1184,5,6,7155.030000000001,5,3,4,534,New Customers
 1185,9,3,1957.15,5,1,1,511,New Customers
-1186,33,6,5299.35,3,3,3,333,Average Customers
+1186,33,6,5299.35,3,3,2,332,Average Customers
 1187,58,4,2382.42,3,1,1,311,Average Customers
 1188,18,2,3043.9,4,1,1,411,Average Customers
 1189,47,4,2894.1,3,1,1,311,Average Customers
@@ -1200,13 +1200,13 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1201,82,3,2329.42,2,1,1,211,Lost Customers
 1202,85,3,4231.33,2,1,2,212,Lost Customers
 1203,7,1,1036.59,5,1,1,511,New Customers
-1204,24,2,598.64,4,1,1,411,Average Customers
+1204,24,3,2461.46,4,1,1,411,Average Customers
 1205,22,9,11055.76,4,5,5,455,Loyal Customers
 1206,83,2,3229.76,2,1,1,211,Lost Customers
 1207,13,7,4099.09,5,4,2,542,New Customers
 1208,77,5,6789.07,2,2,4,224,Lost Customers
 1209,131,2,2368.55,1,1,1,111,Lost Customers
-1210,17,8,9667.75,4,4,5,445,Potential Loyalists
+1210,17,9,10302.32,4,5,5,455,Loyal Customers
 1211,234,4,2677.25,1,1,1,111,Lost Customers
 1212,71,3,3843.34,2,1,2,212,Lost Customers
 1213,69,7,8448.45,2,4,4,244, At Risk
@@ -1221,7 +1221,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1222,51,3,2947.03,3,1,1,311,Average Customers
 1223,34,8,4991.75,3,4,2,342,Average Customers
 1224,47,8,9722.51,3,4,5,345,Average Customers
-1225,58,4,5271.6,3,1,3,313,Average Customers
+1225,58,4,5271.6,3,1,2,312,Average Customers
 1226,24,5,5188.65,4,2,2,422,Average Customers
 1227,61,12,9340.67,2,5,5,255,Loyal Customers
 1228,132,4,3561.17,1,1,1,111,Lost Customers
@@ -1234,7 +1234,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1235,81,3,4340.25,2,1,2,212,Lost Customers
 1236,41,5,5581.9,3,2,3,323,Average Customers
 1237,23,11,14112.4,4,5,5,455,Loyal Customers
-1238,101,5,3590.7,1,2,1,121,Lost Customers
+1238,101,6,3831.42,1,3,2,132,Lost Customers
 1239,38,7,4496.44,3,4,2,342,Average Customers
 1240,5,4,4634.82,5,1,2,512,New Customers
 1241,75,7,7065.74,2,4,4,244, At Risk
@@ -1291,7 +1291,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1292,31,5,6404.32,4,2,3,423,Average Customers
 1293,239,5,5896.44,1,2,3,123,Lost Customers
 1294,176,3,1722.97,1,1,1,111,Lost Customers
-1295,29,6,5147.23,4,3,2,432,Average Customers
+1295,29,7,7146.77,4,4,4,444,Potential Loyalists
 1296,130,4,5977.84,1,1,3,113,Lost Customers
 1297,2,6,6037.48,5,3,3,533,New Customers
 1298,141,5,7471.98,1,2,4,124,Lost Customers
@@ -1309,13 +1309,13 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1310,20,5,4177.02,4,2,2,422,Average Customers
 1311,37,4,6207.49,3,1,3,313,Average Customers
 1312,26,4,3066.41,4,1,1,411,Average Customers
-1313,7,7,8113.21,5,4,4,544,Potential Loyalists
+1313,7,8,10174.59,5,4,5,545,Potential Loyalists
 1314,27,6,6419.91,4,3,3,433,Average Customers
 1315,5,8,5675.12,5,4,3,543,New Customers
 1316,32,5,5704.709999999999,4,2,3,423,Average Customers
 1317,10,9,15370.81,5,5,5,555,Champions
 1318,7,7,7834.26,5,4,4,544,Potential Loyalists
-1319,16,3,3463.61,4,1,1,411,Average Customers
+1319,16,5,6649.37,4,2,3,423,Average Customers
 1320,94,6,4696.18,2,3,2,232,Lost Customers
 1321,103,7,5511.14,1,4,3,143,Lost Customers
 1322,63,4,6024.35,2,1,3,213,Lost Customers
@@ -1339,7 +1339,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1340,28,8,7371.42,4,4,4,444,Potential Loyalists
 1341,10,4,2841.1,5,1,1,511,New Customers
 1342,3,5,5550.01,5,2,3,523,New Customers
-1343,20,3,3737.68,4,1,1,411,Average Customers
+1343,20,4,4627.96,4,1,2,412,Average Customers
 1344,21,3,1709.46,4,1,1,411,Average Customers
 1345,43,6,8121.72,3,3,4,334,Average Customers
 1346,15,9,10530.7,4,5,5,455,Loyal Customers
@@ -1396,7 +1396,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1398,36,7,8073.77,3,4,4,344,Average Customers
 1399,16,4,6034.2,4,1,3,413,Average Customers
 1400,56,7,9111.93,3,4,5,345,Average Customers
-1401,81,4,3740.62,2,1,2,212,Lost Customers
+1401,81,4,3740.62,2,1,1,211,Lost Customers
 1402,40,8,7968.53,3,4,4,344,Average Customers
 1403,164,2,1663.42,1,1,1,111,Lost Customers
 1404,7,10,9401.710000000001,5,5,5,555,Champions
@@ -1411,9 +1411,9 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1413,3,6,5581.84,5,3,3,533,New Customers
 1414,18,2,1758.44,4,1,1,411,Average Customers
 1415,57,4,4962.58,3,1,2,312,Average Customers
-1416,114,4,3443.91,1,1,1,111,Lost Customers
+1416,67,5,4467.3,2,2,2,222,Lost Customers
 1417,56,7,9187.68,3,4,5,345,Average Customers
-1418,86,6,7388.280000000001,2,3,4,234,Lost Customers
+1418,86,7,7705.58,2,4,4,244, At Risk
 1419,22,5,3385.2400000000002,4,2,1,421,Average Customers
 1420,38,5,4965.84,3,2,2,322,Average Customers
 1421,57,6,5452.030000000001,3,3,3,333,Average Customers
@@ -1424,8 +1424,8 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1426,48,7,5955.06,3,4,3,343,Average Customers
 1427,59,6,6354.3,2,3,3,233,Lost Customers
 1428,15,10,11559.73,4,5,5,455,Loyal Customers
-1429,31,6,3862.72,4,3,2,432,Average Customers
-1430,108,5,4676.59,1,2,2,122,Lost Customers
+1429,31,7,5046.72,4,4,2,442,Average Customers
+1430,108,6,5159.71,1,3,2,132,Lost Customers
 1431,19,4,3180.44,4,1,1,411,Average Customers
 1432,33,6,5329.7300000000005,3,3,3,333,Average Customers
 1433,131,3,4030.1099999999997,1,1,2,112,Lost Customers
@@ -1457,7 +1457,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1459,98,4,5707.43,2,1,3,213,Lost Customers
 1460,12,8,14633.24,5,4,5,545,Potential Loyalists
 1461,18,7,8475.94,4,4,4,444,Potential Loyalists
-1462,81,5,3667.8699999999994,2,2,1,221,Lost Customers
+1462,81,6,5402.17,2,3,3,233,Lost Customers
 1463,110,5,5593.08,1,2,3,123,Lost Customers
 1464,106,7,6447.85,1,4,3,143,Lost Customers
 1465,107,4,3709.83,1,1,1,111,Lost Customers
@@ -1474,20 +1474,20 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1476,24,2,2055.69,4,1,1,411,Average Customers
 1477,19,9,9549.97,4,5,5,455,Loyal Customers
 1478,1,8,7494.3,5,4,4,544,Potential Loyalists
-1479,69,5,4646.92,2,2,2,222,Lost Customers
+1479,15,6,5371.29,4,3,3,433,Average Customers
 1480,2,9,7182.38,5,5,4,554,Potential Loyalists
-1481,20,8,7837.75,4,4,4,444,Potential Loyalists
+1481,20,9,9626.68,4,5,5,455,Loyal Customers
 1482,68,12,14366.26,2,5,5,255,Loyal Customers
 1483,29,8,7979.17,4,4,4,444,Potential Loyalists
-1484,14,5,3812.0,5,2,2,522,New Customers
+1484,14,5,3812.0,5,2,1,521,New Customers
 1485,4,2,1871.67,5,1,1,511,New Customers
 1486,32,5,4895.26,4,2,2,422,Average Customers
 1487,17,2,617.38,4,1,1,411,Average Customers
-1488,40,1,533.51,3,1,1,311,Average Customers
+1488,40,2,2561.77,3,1,1,311,Average Customers
 1489,82,5,4051.77,2,2,2,222,Lost Customers
 1490,68,4,4593.42,2,1,2,212,Lost Customers
 1491,160,3,3208.6000000000004,1,1,1,111,Lost Customers
-1492,13,7,10034.769999999999,5,4,5,545,Potential Loyalists
+1492,5,8,11326.9,5,4,5,545,Potential Loyalists
 1493,20,10,11653.87,4,5,5,455,Loyal Customers
 1494,18,10,11747.52,4,5,5,455,Loyal Customers
 1495,3,2,1217.97,5,1,1,511,New Customers
@@ -1498,8 +1498,8 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1500,5,5,7075.5599999999995,5,2,4,524,New Customers
 1501,53,5,4317.1,3,2,2,322,Average Customers
 1502,26,9,11571.9,4,5,5,455,Loyal Customers
-1503,160,8,12553.88,1,4,5,145, At Risk
-1504,5,5,5266.7,5,2,3,523,New Customers
+1503,34,10,13725.13,3,5,5,355,Loyal Customers
+1504,5,5,5266.7,5,2,2,522,New Customers
 1505,18,5,6155.87,4,2,3,423,Average Customers
 1506,0,10,11058.14,5,5,5,555,Champions
 1507,16,4,6661.28,4,1,3,413,Average Customers
@@ -1522,7 +1522,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1524,37,8,5784.92,3,4,3,343,Average Customers
 1525,24,3,2983.65,4,1,1,411,Average Customers
 1526,80,6,8545.73,2,3,4,234,Lost Customers
-1527,41,8,8695.82,3,4,5,345,Average Customers
+1527,41,8,8695.82,3,4,4,344,Average Customers
 1528,75,7,7880.17,2,4,4,244, At Risk
 1529,104,1,1810.0,1,1,1,111,Lost Customers
 1530,1,10,13634.73,5,5,5,555,Champions
@@ -1541,13 +1541,13 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1543,74,3,2638.73,2,1,1,211,Lost Customers
 1544,329,1,1057.51,1,1,1,111,Lost Customers
 1545,2,7,6179.73,5,4,3,543,New Customers
-1546,69,6,6116.7300000000005,2,3,3,233,Lost Customers
+1546,69,7,6956.75,2,4,4,244, At Risk
 1547,27,9,12870.9,4,5,5,455,Loyal Customers
 1548,37,3,2239.69,3,1,1,311,Average Customers
 1549,3,7,5720.9800000000005,5,4,3,543,New Customers
 1550,42,6,5181.85,3,3,2,332,Average Customers
 1551,22,7,7800.78,4,4,4,444,Potential Loyalists
-1552,99,5,6945.16,2,2,4,224,Lost Customers
+1552,99,5,6945.16,1,2,4,124,Lost Customers
 1553,84,4,4422.05,2,1,2,212,Lost Customers
 1554,20,7,9898.23,4,4,5,445,Potential Loyalists
 1555,133,7,7885.78,1,4,4,144, At Risk
@@ -1563,7 +1563,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1565,9,2,3083.23,5,1,1,511,New Customers
 1566,86,4,2886.44,2,1,1,211,Lost Customers
 1567,24,7,10643.93,4,4,5,445,Potential Loyalists
-1568,139,4,6373.65,1,1,3,113,Lost Customers
+1568,139,5,7722.0599999999995,1,2,4,124,Lost Customers
 1569,53,1,1466.68,3,1,1,311,Average Customers
 1570,33,9,9958.95,3,5,5,355,Loyal Customers
 1571,3,4,6221.7300000000005,5,1,3,513,New Customers
@@ -1571,7 +1571,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1573,64,4,5400.4400000000005,2,1,3,213,Lost Customers
 1574,73,10,9813.75,2,5,5,255,Loyal Customers
 1575,86,4,4088.84,2,1,2,212,Lost Customers
-1576,37,7,7829.95,3,4,4,344,Average Customers
+1576,37,8,7956.31,3,4,4,344,Average Customers
 1577,12,7,7980.92,5,4,4,544,Potential Loyalists
 1578,16,7,9064.42,4,4,5,445,Potential Loyalists
 1579,40,10,12087.02,3,5,5,355,Loyal Customers
@@ -1586,22 +1586,22 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1588,32,7,9131.54,4,4,5,445,Potential Loyalists
 1589,11,6,8549.57,5,3,4,534,New Customers
 1590,86,3,5130.389999999999,2,1,2,212,Lost Customers
-1591,29,11,12687.66,4,5,5,455,Loyal Customers
+1591,29,12,13908.32,4,5,5,455,Loyal Customers
 1592,100,4,5703.379999999999,1,1,3,113,Lost Customers
 1593,53,6,7569.45,3,3,4,334,Average Customers
 1594,0,6,8475.63,5,3,4,534,New Customers
 1595,77,7,9792.89,2,4,5,245, At Risk
-1596,135,4,4944.97,1,1,2,112,Lost Customers
+1596,135,5,5697.98,1,2,3,123,Lost Customers
 1597,25,12,18052.68,4,5,5,455,Loyal Customers
 1598,170,5,6297.23,1,2,3,123,Lost Customers
 1599,19,11,8164.88,4,5,4,454,Potential Loyalists
 1600,13,9,5904.32,5,5,3,553,New Customers
 1601,19,4,3901.84,4,1,2,412,Average Customers
-1602,7,5,6779.29,5,2,4,524,New Customers
+1602,7,5,6779.29,5,2,3,523,New Customers
 1603,23,4,5471.889999999999,4,1,3,413,Average Customers
-1604,99,3,3311.7200000000003,2,1,1,211,Lost Customers
+1604,99,3,3311.7200000000003,1,1,1,111,Lost Customers
 1605,181,3,3871.88,1,1,2,112,Lost Customers
-1606,42,4,5390.66,3,1,3,313,Average Customers
+1606,42,5,6270.96,3,2,3,323,Average Customers
 1607,1,5,4898.71,5,2,2,522,New Customers
 1608,12,3,2811.51,5,1,1,511,New Customers
 1609,61,5,6259.92,2,2,3,223,Lost Customers
@@ -1609,7 +1609,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1611,41,12,13692.47,3,5,5,355,Loyal Customers
 1612,67,2,3904.22,2,1,2,212,Lost Customers
 1613,41,8,6670.94,3,4,3,343,Average Customers
-1614,50,6,4720.15,3,3,2,332,Average Customers
+1614,50,7,5571.04,3,4,3,343,Average Customers
 1615,55,6,8856.76,3,3,5,335,Average Customers
 1616,23,7,10413.51,4,4,5,445,Potential Loyalists
 1617,5,5,5926.27,5,2,3,523,New Customers
@@ -1630,7 +1630,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1632,281,2,2114.26,1,1,1,111,Lost Customers
 1633,17,3,4623.68,4,1,2,412,Average Customers
 1634,29,4,3683.93,4,1,1,411,Average Customers
-1635,139,4,6745.71,1,1,4,114,Lost Customers
+1635,139,4,6745.71,1,1,3,113,Lost Customers
 1636,40,5,6065.61,3,2,3,323,Average Customers
 1637,143,8,7801.63,1,4,4,144, At Risk
 1638,11,4,5237.9,5,1,2,512,New Customers
@@ -1660,14 +1660,14 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1662,62,5,3125.38,2,2,1,221,Lost Customers
 1663,13,6,8093.37,5,3,4,534,New Customers
 1664,42,7,8460.32,3,4,4,344,Average Customers
-1665,68,7,6247.18,2,4,3,243,Lost Customers
-1666,78,4,5256.49,2,1,3,213,Lost Customers
+1665,68,8,8205.05,2,4,4,244, At Risk
+1666,78,4,5256.49,2,1,2,212,Lost Customers
 1667,76,7,9549.75,2,4,5,245, At Risk
 1668,4,6,6878.43,5,3,4,534,New Customers
 1669,59,6,6940.13,2,3,4,234,Lost Customers
 1670,60,9,8855.96,2,5,5,255,Loyal Customers
 1671,43,4,3197.84,3,1,1,311,Average Customers
-1672,42,12,13427.7,3,5,5,355,Loyal Customers
+1672,42,13,14908.46,3,5,5,355,Loyal Customers
 1673,133,3,1318.28,1,1,1,111,Lost Customers
 1674,48,5,1043.7,3,2,1,321,Average Customers
 1675,101,4,4572.34,1,1,2,112,Lost Customers
@@ -1687,8 +1687,8 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1689,136,5,7091.33,1,2,4,124,Lost Customers
 1690,16,9,8042.110000000001,4,5,4,454,Potential Loyalists
 1691,2,8,7630.41,5,4,4,544,Potential Loyalists
-1692,127,5,3763.01,1,2,2,122,Lost Customers
-1693,75,7,8716.14,2,4,5,245, At Risk
+1692,127,5,3763.01,1,2,1,121,Lost Customers
+1693,75,7,8716.14,2,4,4,244, At Risk
 1694,19,7,7616.63,4,4,4,444,Potential Loyalists
 1695,37,5,7504.66,3,2,4,324,Average Customers
 1696,28,9,12254.53,4,5,5,455,Loyal Customers
@@ -1697,12 +1697,12 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1699,81,8,8291.65,2,4,4,244, At Risk
 1700,44,7,5028.5,3,4,2,342,Average Customers
 1701,5,5,3664.41,5,2,1,521,New Customers
-1702,14,6,5455.59,5,3,3,533,New Customers
+1702,14,7,5682.53,5,4,3,543,New Customers
 1703,3,4,2468.19,5,1,1,511,New Customers
 1704,119,2,3009.57,1,1,1,111,Lost Customers
 1705,15,4,5029.5,4,1,2,412,Average Customers
 1706,2,8,9107.39,5,4,5,545,Potential Loyalists
-1707,17,8,6588.76,4,4,3,443,Average Customers
+1707,17,9,6986.84,4,5,4,454,Potential Loyalists
 1708,258,4,6112.64,1,1,3,113,Lost Customers
 1709,4,5,5390.71,5,2,3,523,New Customers
 1710,80,4,4067.49,2,1,2,212,Lost Customers
@@ -1723,20 +1723,20 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1725,60,8,11020.22,2,4,5,245, At Risk
 1726,9,8,10471.32,5,4,5,545,Potential Loyalists
 1727,71,7,7397.04,2,4,4,244, At Risk
-1728,45,6,7811.6,3,3,4,334,Average Customers
-1729,58,6,4397.5,3,3,2,332,Average Customers
+1728,45,7,9185.800000000001,3,4,5,345,Average Customers
+1729,58,7,5273.49,3,4,2,342,Average Customers
 1730,20,3,3121.3,4,1,1,411,Average Customers
 1731,43,11,8015.92,3,5,4,354,Average Customers
 1732,97,5,4804.96,2,2,2,222,Lost Customers
 1733,53,5,4933.33,3,2,2,322,Average Customers
 1734,25,2,1998.5900000000001,4,1,1,411,Average Customers
 1735,65,5,5022.08,2,2,2,222,Lost Customers
-1736,54,6,8725.86,3,3,5,335,Average Customers
+1736,54,6,8725.86,3,3,4,334,Average Customers
 1737,45,3,4477.58,3,1,2,312,Average Customers
-1738,21,4,2808.24,4,1,1,411,Average Customers
+1738,21,5,3395.26,4,2,1,421,Average Customers
 1739,37,4,4215.17,3,1,2,312,Average Customers
 1740,6,8,9327.380000000001,5,4,5,545,Potential Loyalists
-1741,64,3,4261.62,2,1,2,212,Lost Customers
+1741,64,4,5075.22,2,1,2,212,Lost Customers
 1742,59,6,7168.48,2,3,4,234,Lost Customers
 1743,86,7,8615.73,2,4,4,244, At Risk
 1744,109,3,1889.09,1,1,1,111,Lost Customers
@@ -1755,7 +1755,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1757,229,1,1228.07,1,1,1,111,Lost Customers
 1758,2,7,4887.03,5,4,2,542,New Customers
 1759,18,6,5494.57,4,3,3,433,Average Customers
-1760,12,6,6410.4,5,3,3,533,New Customers
+1760,12,7,8150.56,5,4,4,544,Potential Loyalists
 1761,18,5,5743.1,4,2,3,423,Average Customers
 1762,21,12,12375.52,4,5,5,455,Loyal Customers
 1763,9,7,7841.49,5,4,4,544,Potential Loyalists
@@ -1768,11 +1768,11 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1770,13,7,8228.41,5,4,4,544,Potential Loyalists
 1771,39,6,7019.95,3,3,4,334,Average Customers
 1772,168,4,4467.889999999999,1,1,2,112,Lost Customers
-1773,8,10,12135.49,5,5,5,555,Champions
-1774,97,4,3792.41,2,1,2,212,Lost Customers
+1773,8,11,13096.0,5,5,5,555,Champions
+1774,97,4,3792.41,2,1,1,211,Lost Customers
 1775,52,6,6171.379999999999,3,3,3,333,Average Customers
 1776,34,7,7458.65,3,4,4,344,Average Customers
-1777,70,6,6896.08,2,3,4,234,Lost Customers
+1777,70,7,7648.4400000000005,2,4,4,244, At Risk
 1778,312,2,3040.4,1,1,1,111,Lost Customers
 1779,129,6,8886.92,1,3,5,135,Lost Customers
 1780,38,4,4117.57,3,1,2,312,Average Customers
@@ -1780,7 +1780,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1782,81,6,8490.84,2,3,4,234,Lost Customers
 1783,49,12,11248.25,3,5,5,355,Loyal Customers
 1784,71,4,4486.610000000001,2,1,2,212,Lost Customers
-1785,34,6,5294.27,3,3,3,333,Average Customers
+1785,34,6,5294.27,3,3,2,332,Average Customers
 1786,174,2,1570.1,1,1,1,111,Lost Customers
 1787,0,6,7519.39,5,3,4,534,New Customers
 1788,29,9,10584.15,4,5,5,455,Loyal Customers
@@ -1801,7 +1801,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1803,115,7,7116.29,1,4,4,144, At Risk
 1804,31,3,4740.04,4,1,2,412,Average Customers
 1805,90,4,2108.15,2,1,1,211,Lost Customers
-1806,37,8,8723.79,3,4,5,345,Average Customers
+1806,37,8,8723.79,3,4,4,344,Average Customers
 1807,60,6,6829.25,2,3,4,234,Lost Customers
 1808,76,7,10837.15,2,4,5,245, At Risk
 1809,27,6,10150.57,4,3,5,435,Average Customers
@@ -1825,18 +1825,18 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1827,38,5,6400.31,3,2,3,323,Average Customers
 1828,150,3,2146.84,1,1,1,111,Lost Customers
 1829,3,3,2868.37,5,1,1,511,New Customers
-1830,13,7,7237.05,5,4,4,544,Potential Loyalists
-1831,165,8,6774.88,1,4,4,144, At Risk
+1830,13,8,8772.89,5,4,5,545,Potential Loyalists
+1831,165,8,6774.88,1,4,3,143,Lost Customers
 1832,84,8,9260.84,2,4,5,245, At Risk
 1833,10,5,4197.33,5,2,2,522,New Customers
 1834,126,4,6290.79,1,1,3,113,Lost Customers
-1835,25,6,5273.87,4,3,3,433,Average Customers
+1835,25,6,5273.87,4,3,2,432,Average Customers
 1836,166,2,2832.71,1,1,1,111,Lost Customers
 1837,35,7,9763.42,3,4,5,345,Average Customers
 1838,49,5,7121.110000000001,3,2,4,324,Average Customers
 1839,49,7,5930.82,3,4,3,343,Average Customers
 1840,98,7,6929.780000000001,2,4,4,244, At Risk
-1841,36,3,4263.92,3,1,2,312,Average Customers
+1841,36,4,5805.54,3,1,3,313,Average Customers
 1842,211,5,6542.54,1,2,3,123,Lost Customers
 1843,112,4,5065.64,1,1,2,112,Lost Customers
 1844,41,7,9198.960000000001,3,4,5,345,Average Customers
@@ -1860,16 +1860,16 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1862,74,7,6966.85,2,4,4,244, At Risk
 1863,24,6,8915.48,4,3,5,435,Average Customers
 1864,24,11,8863.49,4,5,5,455,Loyal Customers
-1865,99,1,1071.23,2,1,1,211,Lost Customers
+1865,99,1,1071.23,1,1,1,111,Lost Customers
 1866,38,9,12450.76,3,5,5,355,Loyal Customers
 1867,2,8,11055.86,5,4,5,545,Potential Loyalists
 1868,26,6,10105.23,4,3,5,435,Average Customers
 1869,41,4,3260.59,3,1,1,311,Average Customers
 1870,38,7,7755.76,3,4,4,344,Average Customers
-1871,94,4,3787.27,2,1,2,212,Lost Customers
+1871,94,4,3787.27,2,1,1,211,Lost Customers
 1872,3,6,6136.51,5,3,3,533,New Customers
 1873,8,4,5930.68,5,1,3,513,New Customers
-1874,99,5,3958.4700000000003,2,2,2,222,Lost Customers
+1874,99,5,3958.4700000000003,1,2,2,122,Lost Customers
 1875,98,6,6549.05,2,3,3,233,Lost Customers
 1876,138,5,10115.019999999999,1,2,5,125,Lost Customers
 1877,80,6,4192.3099999999995,2,3,2,232,Lost Customers
@@ -1887,22 +1887,22 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1889,135,5,6210.6900000000005,1,2,3,123,Lost Customers
 1890,44,9,10862.91,3,5,5,355,Loyal Customers
 1891,81,7,9203.4,2,4,5,245, At Risk
-1892,107,5,3113.52,1,2,1,121,Lost Customers
+1892,107,6,4803.15,1,3,2,132,Lost Customers
 1893,2,7,7903.94,5,4,4,544,Potential Loyalists
 1894,36,4,3591.0299999999997,3,1,1,311,Average Customers
-1895,7,5,2110.2599999999998,5,2,1,521,New Customers
+1895,7,6,2994.17,5,3,1,531,New Customers
 1896,159,3,3843.92,1,1,2,112,Lost Customers
 1897,62,7,5120.75,2,4,2,242,Lost Customers
-1898,60,6,7885.110000000001,2,3,4,234,Lost Customers
-1899,76,5,3807.34,2,2,2,222,Lost Customers
+1898,55,7,9179.48,3,4,5,345,Average Customers
+1899,76,5,3807.34,2,2,1,221,Lost Customers
 1900,67,4,3327.94,2,1,1,211,Lost Customers
 1901,127,7,10098.550000000001,1,4,5,145, At Risk
-1902,52,5,5226.46,3,2,2,322,Average Customers
+1902,21,6,5864.75,4,3,3,433,Average Customers
 1903,16,4,6548.94,4,1,3,413,Average Customers
 1904,67,3,1954.46,2,1,1,211,Lost Customers
 1905,10,9,9595.46,5,5,5,555,Champions
 1906,1,6,5992.34,5,3,3,533,New Customers
-1907,110,4,3740.6,1,1,2,112,Lost Customers
+1907,110,4,3740.6,1,1,1,111,Lost Customers
 1908,107,6,7578.92,1,3,4,134,Lost Customers
 1909,59,6,5543.2,2,3,3,233,Lost Customers
 1910,17,3,3041.75,4,1,1,411,Average Customers
@@ -1915,7 +1915,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1917,28,7,9783.66,4,4,5,445,Potential Loyalists
 1918,1,5,6735.74,5,2,3,523,New Customers
 1919,44,4,3935.23,3,1,2,312,Average Customers
-1920,69,1,360.4,2,1,1,211,Lost Customers
+1920,66,2,1038.65,2,1,1,211,Lost Customers
 1921,40,1,586.45,3,1,1,311,Average Customers
 1922,93,3,3352.52,2,1,1,211,Lost Customers
 1923,15,4,3704.94,4,1,1,411,Average Customers
@@ -1939,7 +1939,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1941,5,4,4645.6900000000005,5,1,2,512,New Customers
 1942,16,8,6241.37,4,4,3,443,Average Customers
 1943,299,3,2075.7799999999997,1,1,1,111,Lost Customers
-1944,5,5,5704.360000000001,5,2,3,523,New Customers
+1944,5,6,6035.27,5,3,3,533,New Customers
 1945,115,3,2551.62,1,1,1,111,Lost Customers
 1946,88,13,11237.380000000001,2,5,5,255,Loyal Customers
 1947,35,9,8225.63,3,5,4,354,Average Customers
@@ -1952,7 +1952,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1954,100,9,10028.09,1,5,5,155,Loyal Customers
 1955,78,3,3235.83,2,1,1,211,Lost Customers
 1956,33,4,3039.79,3,1,1,311,Average Customers
-1957,19,10,11536.57,4,5,5,455,Loyal Customers
+1957,19,11,12822.04,4,5,5,455,Loyal Customers
 1958,69,4,2389.99,2,1,1,211,Lost Customers
 1959,141,8,7593.280000000001,1,4,4,144, At Risk
 1960,69,4,5914.98,2,1,3,213,Lost Customers
@@ -1967,9 +1967,9 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 1969,17,6,6142.67,4,3,3,433,Average Customers
 1970,0,8,8590.23,5,4,4,544,Potential Loyalists
 1971,62,7,8998.88,2,4,5,245, At Risk
-1972,0,4,4795.139999999999,5,1,2,512,New Customers
+1972,0,5,5366.41,5,2,3,523,New Customers
 1973,47,4,4932.1,3,1,2,312,Average Customers
-1974,32,5,3780.45,4,2,2,422,Average Customers
+1974,32,5,3780.45,4,2,1,421,Average Customers
 1975,108,2,661.42,1,1,1,111,Lost Customers
 1976,135,6,6246.07,1,3,3,133,Lost Customers
 1977,60,4,3681.98,2,1,1,211,Lost Customers
@@ -2010,7 +2010,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2012,13,5,5492.34,5,2,3,523,New Customers
 2013,15,10,9944.76,4,5,5,455,Loyal Customers
 2014,54,7,7628.8099999999995,3,4,4,344,Average Customers
-2015,50,6,7253.27,3,3,4,334,Average Customers
+2015,50,7,8012.0,3,4,4,344,Average Customers
 2016,68,6,5897.56,2,3,3,233,Lost Customers
 2017,12,6,7420.3099999999995,5,3,4,534,New Customers
 2018,35,7,7597.12,3,4,4,344,Average Customers
@@ -2029,7 +2029,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2031,19,4,4477.1900000000005,4,1,2,412,Average Customers
 2032,5,2,1640.3,5,1,1,511,New Customers
 2033,11,7,10152.52,5,4,5,545,Potential Loyalists
-2034,89,6,6954.37,2,3,4,234,Lost Customers
+2034,52,8,9042.36,3,4,5,345,Average Customers
 2035,127,4,3371.7999999999997,1,1,1,111,Lost Customers
 2036,25,12,10761.29,4,5,5,455,Loyal Customers
 2037,98,4,4403.780000000001,2,1,2,212,Lost Customers
@@ -2049,7 +2049,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2051,51,6,7376.93,3,3,4,334,Average Customers
 2052,58,9,7052.08,3,5,4,354,Average Customers
 2053,5,6,7727.0,5,3,4,534,New Customers
-2054,1,4,5248.59,5,1,3,513,New Customers
+2054,1,4,5248.59,5,1,2,512,New Customers
 2055,0,9,12172.04,5,5,5,555,Champions
 2056,54,2,1829.4899999999998,3,1,1,311,Average Customers
 2057,16,6,6889.26,4,3,4,434,Average Customers
@@ -2076,7 +2076,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2079,3,3,4631.31,5,1,2,512,New Customers
 2080,162,6,6668.6,1,3,3,133,Lost Customers
 2081,11,5,5586.19,5,2,3,523,New Customers
-2082,1,7,6778.84,5,4,4,544,Potential Loyalists
+2082,1,7,6778.84,5,4,3,543,New Customers
 2083,15,9,10347.279999999999,4,5,5,455,Loyal Customers
 2084,49,3,1985.07,3,1,1,311,Average Customers
 2085,27,3,4294.14,4,1,2,412,Average Customers
@@ -2086,7 +2086,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2089,147,2,477.32000000000005,1,1,1,111,Lost Customers
 2090,163,2,1020.78,1,1,1,111,Lost Customers
 2091,211,3,5499.04,1,1,3,113,Lost Customers
-2092,16,5,6764.39,4,2,4,424,Average Customers
+2092,16,5,6764.39,4,2,3,423,Average Customers
 2093,60,6,7654.84,2,3,4,234,Lost Customers
 2094,34,5,4214.53,3,2,2,322,Average Customers
 2095,20,10,9988.76,4,5,5,455,Loyal Customers
@@ -2115,21 +2115,21 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2118,135,6,6724.4,1,3,3,133,Lost Customers
 2119,67,4,5477.6,2,1,3,213,Lost Customers
 2120,2,8,11028.33,5,4,5,545,Potential Loyalists
-2121,89,9,10142.52,2,5,5,255,Loyal Customers
-2122,8,3,2424.17,5,1,1,511,New Customers
+2121,89,10,11645.45,2,5,5,255,Loyal Customers
+2122,8,4,4039.79,5,1,2,512,New Customers
 2123,195,6,6196.02,1,3,3,133,Lost Customers
 2124,57,6,7618.68,3,3,4,334,Average Customers
 2125,13,6,4206.48,5,3,2,532,New Customers
 2126,25,4,2963.04,4,1,1,411,Average Customers
 2127,32,5,5437.05,4,2,3,423,Average Customers
-2128,13,2,3787.46,5,1,2,512,New Customers
+2128,13,2,3787.46,5,1,1,511,New Customers
 2129,149,2,1411.9299999999998,1,1,1,111,Lost Customers
 2130,1,8,9169.4,5,4,5,545,Potential Loyalists
 2131,101,6,7199.04,1,3,4,134,Lost Customers
 2132,18,8,12668.24,4,4,5,445,Potential Loyalists
 2133,120,5,6553.44,1,2,3,123,Lost Customers
 2134,81,5,6556.68,2,2,3,223,Lost Customers
-2135,338,1,1977.36,1,1,1,111,Lost Customers
+2135,137,2,3174.01,1,1,1,111,Lost Customers
 2136,10,4,6269.92,5,1,3,513,New Customers
 2137,20,4,4683.41,4,1,2,412,Average Customers
 2138,29,8,11281.36,4,4,5,445,Potential Loyalists
@@ -2147,7 +2147,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2150,94,6,6161.6,2,3,3,233,Lost Customers
 2151,146,7,9369.73,1,4,5,145, At Risk
 2152,1,9,9894.84,5,5,5,555,Champions
-2153,76,7,7792.47,2,4,4,244, At Risk
+2153,76,8,8239.72,2,4,4,244, At Risk
 2154,38,6,7924.87,3,3,4,334,Average Customers
 2155,19,12,10114.46,4,5,5,455,Loyal Customers
 2156,113,6,6988.71,1,3,4,134,Lost Customers
@@ -2157,7 +2157,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2160,47,6,6852.88,3,3,4,334,Average Customers
 2161,52,5,5998.47,3,2,3,323,Average Customers
 2162,53,4,4785.389999999999,3,1,2,312,Average Customers
-2163,70,4,3236.7,2,1,1,211,Lost Customers
+2163,70,5,3842.24,2,2,2,222,Lost Customers
 2164,68,7,8585.81,2,4,4,244, At Risk
 2165,0,10,9072.94,5,5,5,555,Champions
 2166,58,6,6021.83,3,3,3,333,Average Customers
@@ -2186,7 +2186,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2189,40,10,9861.3,3,5,5,355,Loyal Customers
 2190,41,8,11980.720000000001,3,4,5,345,Average Customers
 2191,12,5,7172.56,5,2,4,524,New Customers
-2192,42,5,2893.5299999999997,3,2,1,321,Average Customers
+2192,42,6,4812.76,3,3,2,332,Average Customers
 2193,54,4,6086.66,3,1,3,313,Average Customers
 2194,42,8,8464.84,3,4,4,344,Average Customers
 2195,2,6,7278.62,5,3,4,534,New Customers
@@ -2195,11 +2195,11 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2198,25,4,4003.11,4,1,2,412,Average Customers
 2199,24,4,4628.71,4,1,2,412,Average Customers
 2200,79,3,2268.7799999999997,2,1,1,211,Lost Customers
-2201,30,7,10466.46,4,4,5,445,Potential Loyalists
+2201,30,8,11020.84,4,4,5,445,Potential Loyalists
 2202,58,10,8507.06,3,5,4,354,Average Customers
 2203,49,5,6421.1,3,2,3,323,Average Customers
 2204,17,8,7935.08,4,4,4,444,Potential Loyalists
-2205,100,3,3872.62,1,1,2,112,Lost Customers
+2205,100,4,4547.9,1,1,2,112,Lost Customers
 2206,58,4,4155.32,3,1,2,312,Average Customers
 2207,74,6,6263.82,2,3,3,233,Lost Customers
 2208,114,6,5236.3099999999995,1,3,2,132,Lost Customers
@@ -2211,7 +2211,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2214,27,5,5053.05,4,2,2,422,Average Customers
 2215,19,2,1965.6799999999998,4,1,1,411,Average Customers
 2216,74,3,3352.32,2,1,1,211,Lost Customers
-2217,22,7,6891.28,4,4,4,444,Potential Loyalists
+2217,22,8,8779.73,4,4,5,445,Potential Loyalists
 2218,21,3,4304.09,4,1,2,412,Average Customers
 2219,61,5,6319.34,2,2,3,223,Lost Customers
 2220,85,4,4529.9,2,1,2,212,Lost Customers
@@ -2227,8 +2227,8 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2230,44,8,9883.84,3,4,5,345,Average Customers
 2231,64,3,4555.37,2,1,2,212,Lost Customers
 2232,59,6,5666.030000000001,2,3,3,233,Lost Customers
-2233,63,7,6778.26,2,4,4,244, At Risk
-2234,57,6,3299.58,3,3,1,331,Average Customers
+2233,63,7,6778.26,2,4,3,243,Lost Customers
+2234,57,7,4055.89,3,4,2,342,Average Customers
 2235,80,6,7834.27,2,3,4,234,Lost Customers
 2236,1,3,4226.47,5,1,2,512,New Customers
 2237,38,7,7412.94,3,4,4,344,Average Customers
@@ -2240,7 +2240,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2243,183,3,2141.05,1,1,1,111,Lost Customers
 2244,63,5,5963.92,2,2,3,223,Lost Customers
 2245,74,7,7779.9,2,4,4,244, At Risk
-2246,99,4,4027.99,2,1,2,212,Lost Customers
+2246,99,4,4027.99,1,1,2,112,Lost Customers
 2247,29,7,8149.4800000000005,4,4,4,444,Potential Loyalists
 2248,51,8,8369.31,3,4,4,344,Average Customers
 2249,112,5,5600.46,1,2,3,123,Lost Customers
@@ -2248,8 +2248,8 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2251,15,7,5798.71,4,4,3,443,Average Customers
 2252,130,5,5648.85,1,2,3,123,Lost Customers
 2253,84,6,7418.9400000000005,2,3,4,234,Lost Customers
-2254,3,5,5373.7,5,2,3,523,New Customers
-2255,143,2,3277.4700000000003,1,1,1,111,Lost Customers
+2254,3,6,5579.54,5,3,3,533,New Customers
+2255,143,3,3400.21,1,1,1,111,Lost Customers
 2256,169,3,4499.85,1,1,2,112,Lost Customers
 2257,64,5,6440.81,2,2,3,223,Lost Customers
 2258,52,7,8399.53,3,4,4,344,Average Customers
@@ -2261,7 +2261,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2264,153,6,5198.18,1,3,2,132,Lost Customers
 2265,95,3,3990.7799999999997,2,1,2,212,Lost Customers
 2266,29,10,8911.6,4,5,5,455,Loyal Customers
-2267,99,5,5466.639999999999,2,2,3,223,Lost Customers
+2267,99,5,5466.639999999999,1,2,3,123,Lost Customers
 2268,35,8,9258.43,3,4,5,345,Average Customers
 2269,47,7,9233.33,3,4,5,345,Average Customers
 2270,129,5,7588.29,1,2,4,124,Lost Customers
@@ -2272,7 +2272,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2275,121,6,8289.0,1,3,4,134,Lost Customers
 2276,10,4,4714.45,5,1,2,512,New Customers
 2277,36,4,4721.53,3,1,2,312,Average Customers
-2278,34,4,1635.2399999999998,3,1,1,311,Average Customers
+2278,34,5,3123.04,3,2,1,321,Average Customers
 2279,35,8,7565.7,3,4,4,344,Average Customers
 2280,24,5,6373.32,4,2,3,423,Average Customers
 2281,38,7,8021.26,3,4,4,344,Average Customers
@@ -2286,11 +2286,11 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2289,59,5,6450.51,2,2,3,223,Lost Customers
 2290,72,6,7476.58,2,3,4,234,Lost Customers
 2291,107,1,792.9,1,1,1,111,Lost Customers
-2292,45,7,8732.619999999999,3,4,5,345,Average Customers
+2292,45,7,8732.619999999999,3,4,4,344,Average Customers
 2293,85,5,5018.52,2,2,2,222,Lost Customers
 2294,73,7,9680.22,2,4,5,245, At Risk
 2295,17,4,5830.14,4,1,3,413,Average Customers
-2296,36,4,5259.05,3,1,3,313,Average Customers
+2296,36,4,5259.05,3,1,2,312,Average Customers
 2297,37,5,6232.6900000000005,3,2,3,323,Average Customers
 2298,45,6,6997.85,3,3,4,334,Average Customers
 2299,59,6,4359.32,2,3,2,232,Lost Customers
@@ -2304,7 +2304,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2307,81,11,10123.71,2,5,5,255,Loyal Customers
 2308,13,9,11438.369999999999,5,5,5,555,Champions
 2309,53,12,16122.34,3,5,5,355,Loyal Customers
-2310,15,6,8126.88,4,3,4,434,Average Customers
+2310,15,7,9599.97,4,4,5,445,Potential Loyalists
 2311,66,5,6375.870000000001,2,2,3,223,Lost Customers
 2312,28,5,7250.51,4,2,4,424,Average Customers
 2313,44,6,4657.8,3,3,2,332,Average Customers
@@ -2318,7 +2318,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2321,161,3,5473.58,1,1,3,113,Lost Customers
 2322,67,4,4035.5099999999998,2,1,2,212,Lost Customers
 2323,212,3,4599.45,1,1,2,112,Lost Customers
-2324,78,4,4867.58,2,1,2,212,Lost Customers
+2324,78,5,5621.34,2,2,3,223,Lost Customers
 2325,12,6,7084.51,5,3,4,534,New Customers
 2326,112,1,774.53,1,1,1,111,Lost Customers
 2327,224,3,4153.110000000001,1,1,2,112,Lost Customers
@@ -2335,8 +2335,8 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2338,23,7,7546.18,4,4,4,444,Potential Loyalists
 2339,11,9,10497.39,5,5,5,555,Champions
 2340,5,9,9442.23,5,5,5,555,Champions
-2341,13,7,9978.130000000001,5,4,5,545,Potential Loyalists
-2342,65,3,4089.34,2,1,2,212,Lost Customers
+2341,13,8,11392.11,5,4,5,545,Potential Loyalists
+2342,65,4,4988.86,2,1,2,212,Lost Customers
 2343,62,3,4215.4,2,1,2,212,Lost Customers
 2344,47,6,6947.3,3,3,4,334,Average Customers
 2345,0,5,7439.41,5,2,4,524,New Customers
@@ -2398,13 +2398,13 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2401,21,8,10935.93,4,4,5,445,Potential Loyalists
 2402,78,3,4490.75,2,1,2,212,Lost Customers
 2403,150,5,3202.84,1,2,1,121,Lost Customers
-2404,187,5,7607.2,1,2,4,124,Lost Customers
-2405,45,5,2817.81,3,2,1,321,Average Customers
+2404,2,6,9279.27,5,3,5,535,New Customers
+2405,45,6,3528.3599999999997,3,3,1,331,Average Customers
 2406,80,4,4117.37,2,1,2,212,Lost Customers
-2407,68,5,5107.530000000001,2,2,2,222,Lost Customers
+2407,68,6,6205.71,2,3,3,233,Lost Customers
 2408,24,3,3920.17,4,1,2,412,Average Customers
 2409,49,7,7117.35,3,4,4,344,Average Customers
-2410,36,6,6772.02,3,3,4,334,Average Customers
+2410,36,7,7649.62,3,4,4,344,Average Customers
 2411,223,4,6535.39,1,1,3,113,Lost Customers
 2412,17,6,7097.639999999999,4,3,4,434,Average Customers
 2413,58,7,8666.869999999999,3,4,4,344,Average Customers
@@ -2418,15 +2418,15 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2421,0,6,2836.38,5,3,1,531,New Customers
 2422,32,5,4670.18,4,2,2,422,Average Customers
 2423,59,1,202.62,2,1,1,211,Lost Customers
-2424,67,6,5579.95,2,3,3,233,Lost Customers
+2424,67,7,5910.3099999999995,2,4,3,243,Lost Customers
 2425,8,9,8310.5,5,5,4,554,Potential Loyalists
 2426,16,5,8399.89,4,2,4,424,Average Customers
 2427,3,6,7962.36,5,3,4,534,New Customers
 2428,10,9,10167.49,5,5,5,555,Champions
-2429,222,3,3811.29,1,1,2,112,Lost Customers
+2429,222,3,3811.29,1,1,1,111,Lost Customers
 2430,115,4,3385.21,1,1,1,111,Lost Customers
 2431,218,2,1447.1799999999998,1,1,1,111,Lost Customers
-2432,32,6,4408.47,4,3,2,432,Average Customers
+2432,32,7,4898.05,4,4,2,442,Average Customers
 2433,26,10,10945.11,4,5,5,455,Loyal Customers
 2434,0,9,10024.41,5,5,5,555,Champions
 2435,123,5,6950.49,1,2,4,124,Lost Customers
@@ -2448,9 +2448,9 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2451,17,3,3247.8500000000004,4,1,1,411,Average Customers
 2452,9,4,4209.71,5,1,2,512,New Customers
 2453,56,6,4683.469999999999,3,3,2,332,Average Customers
-2454,29,10,11477.22,4,5,5,455,Loyal Customers
+2454,29,11,11914.73,4,5,5,455,Loyal Customers
 2455,75,8,8482.92,2,4,4,244, At Risk
-2456,167,5,5167.12,1,2,2,122,Lost Customers
+2456,167,6,6887.07,1,3,4,134,Lost Customers
 2457,52,6,8023.24,3,3,4,334,Average Customers
 2458,4,7,11224.23,5,4,5,545,Potential Loyalists
 2459,53,11,11877.19,3,5,5,355,Loyal Customers
@@ -2459,22 +2459,22 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2462,24,6,5779.98,4,3,3,433,Average Customers
 2463,64,8,9906.89,2,4,5,245, At Risk
 2464,2,13,14574.06,5,5,5,555,Champions
-2465,11,9,9114.460000000001,5,5,5,555,Champions
+2465,11,10,10135.89,5,5,5,555,Champions
 2466,19,5,4796.14,4,2,2,422,Average Customers
 2467,21,5,2590.13,4,2,1,421,Average Customers
-2468,21,9,11893.32,4,5,5,455,Loyal Customers
+2468,21,10,13390.75,4,5,5,455,Loyal Customers
 2469,20,7,10397.56,4,4,5,445,Potential Loyalists
 2470,12,4,3356.1,5,1,1,511,New Customers
 2471,13,5,5699.45,5,2,3,523,New Customers
 2472,85,6,7612.35,2,3,4,234,Lost Customers
 2473,113,5,4256.68,1,2,2,122,Lost Customers
-2474,64,7,7884.070000000001,2,4,4,244, At Risk
+2474,31,8,7916.51,4,4,4,444,Potential Loyalists
 2475,85,7,10009.91,2,4,5,245, At Risk
 2476,14,14,14578.69,5,5,5,555,Champions
 2477,40,1,2005.66,3,1,1,311,Average Customers
 2478,114,7,5012.3099999999995,1,4,2,142,Lost Customers
-2479,2,6,2933.17,5,3,1,531,New Customers
-2480,42,5,6781.5,3,2,4,324,Average Customers
+2479,2,7,3335.31,5,4,1,541,New Customers
+2480,42,5,6781.5,3,2,3,323,Average Customers
 2481,20,7,5825.4,4,4,3,443,Average Customers
 2482,232,3,3110.6899999999996,1,1,1,111,Lost Customers
 2483,69,5,3026.94,2,2,1,221,Lost Customers
@@ -2485,10 +2485,10 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2488,18,6,6900.389999999999,4,3,4,434,Average Customers
 2489,40,8,11411.16,3,4,5,345,Average Customers
 2490,38,5,7816.21,3,2,4,324,Average Customers
-2491,105,6,3798.2,1,3,2,132,Lost Customers
+2491,105,6,3798.2,1,3,1,131,Lost Customers
 2492,7,10,12661.35,5,5,5,555,Champions
-2493,54,3,3796.09,3,1,2,312,Average Customers
-2494,95,7,6744.39,2,4,4,244, At Risk
+2493,54,3,3796.09,3,1,1,311,Average Customers
+2494,95,7,6744.39,2,4,3,243,Lost Customers
 2495,31,8,5497.11,4,4,3,443,Average Customers
 2496,196,5,2095.52,1,2,1,121,Lost Customers
 2497,46,4,4265.4400000000005,3,1,2,312,Average Customers
@@ -2521,7 +2521,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2524,184,6,4384.97,1,3,2,132,Lost Customers
 2525,303,1,1977.36,1,1,1,111,Lost Customers
 2526,53,6,6039.110000000001,3,3,3,333,Average Customers
-2527,40,7,8751.73,3,4,5,345,Average Customers
+2527,40,7,8751.73,3,4,4,344,Average Customers
 2528,25,7,9485.91,4,4,5,445,Potential Loyalists
 2529,98,7,9000.92,2,4,5,245, At Risk
 2530,9,7,5560.28,5,4,3,543,New Customers
@@ -2547,13 +2547,13 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2550,11,5,6139.76,5,2,3,523,New Customers
 2551,265,4,4894.98,1,1,2,112,Lost Customers
 2552,35,6,8603.02,3,3,4,334,Average Customers
-2553,150,5,5233.51,1,2,2,122,Lost Customers
+2553,150,7,8252.1,1,4,4,144, At Risk
 2554,59,5,4993.71,2,2,2,222,Lost Customers
-2555,1,5,7747.14,5,2,4,524,New Customers
+2555,1,6,9456.4,5,3,5,535,New Customers
 2556,14,2,1917.48,5,1,1,511,New Customers
 2557,30,3,5222.06,4,1,2,412,Average Customers
 2558,32,4,5684.29,4,1,3,413,Average Customers
-2559,12,7,4653.55,5,4,2,542,New Customers
+2559,12,8,5364.14,5,4,3,543,New Customers
 2560,45,11,9706.619999999999,3,5,5,355,Loyal Customers
 2561,1,4,7146.860000000001,5,1,4,514,New Customers
 2562,101,7,8220.23,1,4,4,144, At Risk
@@ -2584,7 +2584,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2587,64,9,9007.27,2,5,5,255,Loyal Customers
 2588,178,3,5656.6900000000005,1,1,3,113,Lost Customers
 2589,67,5,5101.54,2,2,2,222,Lost Customers
-2590,50,6,8720.42,3,3,5,335,Average Customers
+2590,50,6,8720.42,3,3,4,334,Average Customers
 2591,42,6,9027.71,3,3,5,335,Average Customers
 2592,37,8,11062.61,3,4,5,345,Average Customers
 2593,60,4,3940.27,2,1,2,212,Lost Customers
@@ -2592,7 +2592,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2595,44,8,10273.25,3,4,5,345,Average Customers
 2596,72,5,7674.39,2,2,4,224,Lost Customers
 2597,5,6,7670.71,5,3,4,534,New Customers
-2598,87,5,6570.66,2,2,3,223,Lost Customers
+2598,87,6,7871.62,2,3,4,234,Lost Customers
 2599,53,7,7725.21,3,4,4,344,Average Customers
 2600,171,3,4973.54,1,1,2,112,Lost Customers
 2601,36,8,9798.03,3,4,5,345,Average Customers
@@ -2603,7 +2603,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2606,5,10,12338.51,5,5,5,555,Champions
 2607,5,8,7870.34,5,4,4,544,Potential Loyalists
 2608,17,7,4403.82,4,4,2,442,Average Customers
-2609,187,7,6390.16,1,4,3,143,Lost Customers
+2609,181,8,8362.17,1,4,4,144, At Risk
 2610,112,8,8499.220000000001,1,4,4,144, At Risk
 2611,2,7,5700.59,5,4,3,543,New Customers
 2612,209,2,1924.4700000000003,1,1,1,111,Lost Customers
@@ -2632,7 +2632,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2635,68,8,10781.21,2,4,5,245, At Risk
 2636,30,3,3411.77,4,1,1,411,Average Customers
 2637,54,11,13895.71,3,5,5,355,Loyal Customers
-2638,83,9,9133.15,2,5,5,255,Loyal Customers
+2638,83,10,9883.4,2,5,5,255,Loyal Customers
 2639,31,5,7255.96,4,2,4,424,Average Customers
 2640,67,11,11643.47,2,5,5,255,Loyal Customers
 2641,11,7,6132.32,5,4,3,543,New Customers
@@ -2645,7 +2645,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2648,35,5,6102.13,3,2,3,323,Average Customers
 2649,129,4,6633.45,1,1,3,113,Lost Customers
 2650,25,6,5688.65,4,3,3,433,Average Customers
-2651,15,8,10121.93,4,4,5,445,Potential Loyalists
+2651,15,9,10138.01,4,5,5,455,Loyal Customers
 2652,23,5,7176.639999999999,4,2,4,424,Average Customers
 2653,3,9,12316.0,5,5,5,555,Champions
 2654,108,9,9905.2,1,5,5,155,Loyal Customers
@@ -2695,7 +2695,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2699,60,5,3428.76,2,2,1,221,Lost Customers
 2700,71,4,4497.46,2,1,2,212,Lost Customers
 2701,52,9,11558.89,3,5,5,355,Loyal Customers
-2702,19,8,11698.41,4,4,5,445,Potential Loyalists
+2702,19,9,12880.3,4,5,5,455,Loyal Customers
 2703,19,7,7330.05,4,4,4,444,Potential Loyalists
 2704,235,3,1517.27,1,1,1,111,Lost Customers
 2705,2,9,12147.34,5,5,5,555,Champions
@@ -2713,7 +2713,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2717,41,10,10140.5,3,5,5,355,Loyal Customers
 2718,221,7,6798.88,1,4,4,144, At Risk
 2719,10,3,3061.49,5,1,1,511,New Customers
-2720,148,4,3710.19,1,1,1,111,Lost Customers
+2720,148,5,5273.07,1,2,2,122,Lost Customers
 2721,114,2,2292.96,1,1,1,111,Lost Customers
 2722,73,6,4806.32,2,3,2,232,Lost Customers
 2723,40,8,10565.119999999999,3,4,5,345,Average Customers
@@ -2722,11 +2722,11 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2726,27,10,10263.47,4,5,5,455,Loyal Customers
 2727,49,5,8567.85,3,2,4,324,Average Customers
 2728,7,8,9659.77,5,4,5,545,Potential Loyalists
-2729,6,6,8706.47,5,3,5,535,New Customers
+2729,6,6,8706.47,5,3,4,534,New Customers
 2730,4,7,4649.51,5,4,2,542,New Customers
 2731,3,4,2409.89,5,1,1,511,New Customers
 2732,16,10,6703.58,4,5,3,453,Average Customers
-2733,28,9,12972.27,4,5,5,455,Loyal Customers
+2733,28,10,13266.619999999999,4,5,5,455,Loyal Customers
 2734,55,3,2148.54,3,1,1,311,Average Customers
 2735,148,2,1340.77,1,1,1,111,Lost Customers
 2736,42,5,4311.28,3,2,2,322,Average Customers
@@ -2735,12 +2735,12 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2739,242,2,743.0500000000001,1,1,1,111,Lost Customers
 2740,26,8,10497.95,4,4,5,445,Potential Loyalists
 2741,19,3,3056.2200000000003,4,1,1,411,Average Customers
-2742,95,3,3741.05,2,1,2,212,Lost Customers
+2742,95,3,3741.05,2,1,1,211,Lost Customers
 2743,46,2,2956.8,3,1,1,311,Average Customers
 2744,125,3,3148.36,1,1,1,111,Lost Customers
 2745,267,2,3322.62,1,1,1,111,Lost Customers
 2746,8,3,3056.2200000000003,5,1,1,511,New Customers
-2747,14,8,10528.310000000001,5,4,5,545,Potential Loyalists
+2747,14,9,11417.36,5,5,5,555,Champions
 2748,6,4,3952.7,5,1,2,512,New Customers
 2749,34,1,1061.56,3,1,1,311,Average Customers
 2750,42,11,12349.36,3,5,5,355,Loyal Customers
@@ -2748,18 +2748,18 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2752,12,4,5737.59,5,1,3,513,New Customers
 2753,67,11,9649.8,2,5,5,255,Loyal Customers
 2754,186,3,5568.64,1,1,3,113,Lost Customers
-2755,28,12,12109.6,4,5,5,455,Loyal Customers
+2755,28,13,14088.24,4,5,5,455,Loyal Customers
 2756,56,4,5196.93,3,1,2,312,Average Customers
 2757,144,3,3501.37,1,1,1,111,Lost Customers
-2758,79,3,2230.06,2,1,1,211,Lost Customers
+2758,15,4,4188.4,4,1,2,412,Average Customers
 2759,110,5,5619.73,1,2,3,123,Lost Customers
 2760,31,5,5241.94,4,2,2,422,Average Customers
 2761,7,9,10079.42,5,5,5,555,Champions
-2762,16,9,13073.58,4,5,5,455,Loyal Customers
+2762,16,10,15071.26,4,5,5,455,Loyal Customers
 2763,19,9,6496.64,4,5,3,453,Average Customers
-2764,51,3,1639.08,3,1,1,311,Average Customers
+2764,51,4,3651.92,3,1,1,311,Average Customers
 2765,46,6,8522.02,3,3,4,334,Average Customers
-2766,47,6,8740.06,3,3,5,335,Average Customers
+2766,47,6,8740.06,3,3,4,334,Average Customers
 2767,48,3,2597.41,3,1,1,311,Average Customers
 2768,23,6,6811.9400000000005,4,3,4,434,Average Customers
 2769,46,6,8004.25,3,3,4,334,Average Customers
@@ -2811,11 +2811,11 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2815,27,9,9217.46,4,5,5,455,Loyal Customers
 2816,8,10,13562.73,5,5,5,555,Champions
 2817,15,3,4046.6099999999997,4,1,2,412,Average Customers
-2818,99,4,5234.29,2,1,2,212,Lost Customers
+2818,99,4,5234.29,1,1,2,112,Lost Customers
 2819,162,4,5543.02,1,1,3,113,Lost Customers
 2820,58,7,8152.6900000000005,3,4,4,344,Average Customers
 2821,51,5,4455.08,3,2,2,322,Average Customers
-2822,11,9,8764.17,5,5,5,555,Champions
+2822,11,9,8764.17,5,5,4,554,Potential Loyalists
 2823,12,4,2040.6100000000001,5,1,1,511,New Customers
 2824,122,6,8837.81,1,3,5,135,Lost Customers
 2825,112,4,4231.89,1,1,2,112,Lost Customers
@@ -2825,7 +2825,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2829,144,2,3023.32,1,1,1,111,Lost Customers
 2830,95,5,4885.5199999999995,2,2,2,222,Lost Customers
 2831,14,5,4904.01,5,2,2,522,New Customers
-2832,23,8,6485.34,4,4,3,443,Average Customers
+2832,23,9,7026.780000000001,4,5,4,454,Potential Loyalists
 2833,16,6,6437.61,4,3,3,433,Average Customers
 2834,66,3,3603.6800000000003,2,1,1,211,Lost Customers
 2835,228,3,1178.37,1,1,1,111,Lost Customers
@@ -2837,23 +2837,23 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2841,16,7,10658.349999999999,4,4,5,445,Potential Loyalists
 2842,39,3,2134.96,3,1,1,311,Average Customers
 2843,20,6,6116.0,4,3,3,433,Average Customers
-2844,23,6,6778.91,4,3,4,434,Average Customers
+2844,23,7,7248.98,4,4,4,444,Potential Loyalists
 2845,47,8,8539.21,3,4,4,344,Average Customers
 2846,15,4,4002.3,4,1,2,412,Average Customers
 2847,44,7,8251.07,3,4,4,344,Average Customers
 2848,13,4,5354.429999999999,5,1,3,513,New Customers
 2849,115,4,4650.96,1,1,2,112,Lost Customers
 2850,7,8,7671.88,5,4,4,544,Potential Loyalists
-2851,9,8,8746.779999999999,5,4,5,545,Potential Loyalists
+2851,9,8,8746.779999999999,5,4,4,544,Potential Loyalists
 2852,25,6,8373.67,4,3,4,434,Average Customers
 2853,81,8,8836.36,2,4,5,245, At Risk
 2854,83,4,4893.5,2,1,2,212,Lost Customers
 2855,39,2,255.35000000000002,3,1,1,311,Average Customers
 2856,6,7,10139.11,5,4,5,545,Potential Loyalists
 2857,113,6,8974.25,1,3,5,135,Lost Customers
-2858,108,4,6672.94,1,1,3,113,Lost Customers
+2858,108,5,8376.119999999999,1,2,4,124,Lost Customers
 2859,10,8,6793.56,5,4,4,544,Potential Loyalists
-2860,8,9,13804.79,5,5,5,555,Champions
+2860,8,10,14673.35,5,5,5,555,Champions
 2861,73,8,9484.25,2,4,5,245, At Risk
 2862,14,5,4816.96,5,2,2,522,New Customers
 2863,175,1,544.05,1,1,1,111,Lost Customers
@@ -2913,17 +2913,17 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2917,148,5,6402.85,1,2,3,123,Lost Customers
 2918,51,7,8939.64,3,4,5,345,Average Customers
 2919,21,6,5710.05,4,3,3,433,Average Customers
-2920,99,2,2787.82,2,1,1,211,Lost Customers
+2920,99,2,2787.82,1,1,1,111,Lost Customers
 2921,57,5,4820.4,3,2,2,322,Average Customers
 2922,1,5,5507.0199999999995,5,2,3,523,New Customers
 2923,13,7,6413.18,5,4,3,543,New Customers
 2924,64,6,5940.1900000000005,2,3,3,233,Lost Customers
 2925,93,5,4419.8099999999995,2,2,2,222,Lost Customers
 2926,143,4,3211.69,1,1,1,111,Lost Customers
-2927,99,3,4096.32,2,1,2,212,Lost Customers
+2927,99,3,4096.32,1,1,2,112,Lost Customers
 2928,175,5,6092.18,1,2,3,123,Lost Customers
 2929,1,9,10903.63,5,5,5,555,Champions
-2930,71,6,5079.0,2,3,2,232,Lost Customers
+2930,71,7,6178.68,2,4,3,243,Lost Customers
 2931,57,6,4741.6,3,3,2,332,Average Customers
 2932,19,10,10991.14,4,5,5,455,Loyal Customers
 2933,95,5,4806.32,2,2,2,222,Lost Customers
@@ -2932,8 +2932,8 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2936,59,7,10669.630000000001,2,4,5,245, At Risk
 2937,7,7,11473.75,5,4,5,545,Potential Loyalists
 2938,125,5,7013.27,1,2,4,124,Lost Customers
-2939,90,4,3757.8,2,1,2,212,Lost Customers
-2940,94,7,6758.78,2,4,4,244, At Risk
+2939,90,4,3757.8,2,1,1,211,Lost Customers
+2940,94,7,6758.78,2,4,3,243,Lost Customers
 2941,172,5,4811.55,1,2,2,122,Lost Customers
 2942,9,8,9837.369999999999,5,4,5,545,Potential Loyalists
 2943,52,7,7308.48,3,4,4,344,Average Customers
@@ -2980,7 +2980,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2984,158,5,6200.1,1,2,3,123,Lost Customers
 2985,38,10,10664.07,3,5,5,355,Loyal Customers
 2986,28,9,9529.92,4,5,5,455,Loyal Customers
-2987,17,5,5300.65,4,2,3,423,Average Customers
+2987,17,5,5300.65,4,2,2,422,Average Customers
 2988,32,8,8349.34,4,4,4,444,Potential Loyalists
 2989,70,9,11757.14,2,5,5,255,Loyal Customers
 2990,14,7,5394.23,5,4,3,543,New Customers
@@ -2990,7 +2990,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 2994,15,3,719.38,4,1,1,411,Average Customers
 2995,10,5,5069.75,5,2,2,522,New Customers
 2996,21,3,4774.51,4,1,2,412,Average Customers
-2997,31,6,5293.91,4,3,3,433,Average Customers
+2997,31,6,5293.91,4,3,2,432,Average Customers
 2998,66,3,4629.21,2,1,2,212,Lost Customers
 2999,8,11,12745.98,5,5,5,555,Champions
 3000,42,4,4848.29,3,1,2,312,Average Customers
@@ -3031,7 +3031,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 3035,38,5,4522.24,3,2,2,322,Average Customers
 3036,156,5,8620.53,1,2,4,124,Lost Customers
 3037,185,3,2449.3,1,1,1,111,Lost Customers
-3038,46,6,5268.26,3,3,3,333,Average Customers
+3038,46,6,5268.26,3,3,2,332,Average Customers
 3039,69,9,8652.35,2,5,4,254, At Risk
 3040,203,2,3384.3099999999995,1,1,1,111,Lost Customers
 3041,124,2,3469.37,1,1,1,111,Lost Customers
@@ -3059,7 +3059,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 3063,92,5,3246.28,2,2,1,221,Lost Customers
 3064,55,7,6989.68,3,4,4,344,Average Customers
 3065,5,5,5665.26,5,2,3,523,New Customers
-3066,164,4,3756.25,1,1,2,112,Lost Customers
+3066,164,4,3756.25,1,1,1,111,Lost Customers
 3067,39,6,7095.87,3,3,4,334,Average Customers
 3068,79,6,5197.79,2,3,2,232,Lost Customers
 3069,70,3,3104.7999999999997,2,1,1,211,Lost Customers
@@ -3079,7 +3079,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 3083,69,6,4366.12,2,3,2,232,Lost Customers
 3084,15,6,7652.58,4,3,4,434,Average Customers
 3085,25,5,4858.75,4,2,2,422,Average Customers
-3086,11,9,9791.77,5,5,5,555,Champions
+3086,11,10,9866.66,5,5,5,555,Champions
 3087,84,6,6584.210000000001,2,3,3,233,Lost Customers
 3088,3,7,6701.71,5,4,3,543,New Customers
 3089,27,4,6196.13,4,1,3,413,Average Customers
@@ -3095,9 +3095,9 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 3099,83,2,3105.12,2,1,1,211,Lost Customers
 3100,20,4,5579.87,4,1,3,413,Average Customers
 3101,61,4,4558.28,2,1,2,212,Lost Customers
-3102,106,4,6100.75,1,1,3,113,Lost Customers
+3102,106,5,7162.67,1,2,4,124,Lost Customers
 3103,59,8,9084.18,2,4,5,245, At Risk
-3104,49,6,6796.84,3,3,4,334,Average Customers
+3104,49,7,7947.43,3,4,4,344,Average Customers
 3105,10,6,6820.6,5,3,4,534,New Customers
 3106,199,5,5176.15,1,2,2,122,Lost Customers
 3107,95,4,4003.1400000000003,2,1,2,212,Lost Customers
@@ -3131,29 +3131,29 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 3135,121,7,7539.8099999999995,1,4,4,144, At Risk
 3136,25,4,4905.76,4,1,2,412,Average Customers
 3137,116,7,6481.77,1,4,3,143,Lost Customers
-3138,69,4,5084.3,2,1,2,212,Lost Customers
+3138,69,5,7137.22,2,2,4,224,Lost Customers
 3139,11,3,2633.05,5,1,1,511,New Customers
 3140,40,3,2714.79,3,1,1,311,Average Customers
 3141,70,7,3596.67,2,4,1,241,Lost Customers
 3142,12,4,4004.87,5,1,2,512,New Customers
 3143,20,11,10532.28,4,5,5,455,Loyal Customers
 3144,64,3,1975.27,2,1,1,211,Lost Customers
-3145,68,6,7219.03,2,3,4,234,Lost Customers
+3145,68,7,8500.63,2,4,4,244, At Risk
 3146,54,8,11006.29,3,4,5,345,Average Customers
 3147,3,6,5237.77,5,3,2,532,New Customers
 3148,55,6,6033.4,3,3,3,333,Average Customers
 3149,22,3,3636.56,4,1,1,411,Average Customers
-3150,87,7,3787.1800000000003,2,4,2,242,Lost Customers
+3150,87,8,5011.59,2,4,2,242,Lost Customers
 3151,13,9,11451.18,5,5,5,555,Champions
 3152,11,6,5683.73,5,3,3,533,New Customers
 3153,127,5,8533.27,1,2,4,124,Lost Customers
-3154,14,7,6780.46,5,4,4,544,Potential Loyalists
+3154,14,7,6780.46,5,4,3,543,New Customers
 3155,43,4,2692.7400000000002,3,1,1,311,Average Customers
 3156,4,3,3087.91,5,1,1,511,New Customers
 3157,10,8,10424.25,5,4,5,545,Potential Loyalists
 3158,16,6,7721.6900000000005,4,3,4,434,Average Customers
 3159,25,2,3527.29,4,1,1,411,Average Customers
-3160,52,5,6779.3099999999995,3,2,4,324,Average Customers
+3160,52,5,6779.3099999999995,3,2,3,323,Average Customers
 3161,83,1,792.9,2,1,1,211,Lost Customers
 3162,110,2,2734.17,1,1,1,111,Lost Customers
 3163,14,6,5066.64,5,3,2,532,New Customers
@@ -3161,7 +3161,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 3165,77,8,8775.91,2,4,5,245, At Risk
 3166,47,7,9906.01,3,4,5,345,Average Customers
 3167,73,4,5079.55,2,1,2,212,Lost Customers
-3168,91,4,6708.369999999999,2,1,3,213,Lost Customers
+3168,91,5,7910.709999999999,2,2,4,224,Lost Customers
 3169,0,7,6806.93,5,4,4,544,Potential Loyalists
 3170,44,6,6884.95,3,3,4,334,Average Customers
 3171,75,3,3111.56,2,1,1,211,Lost Customers
@@ -3190,7 +3190,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 3194,86,3,3691.67,2,1,1,211,Lost Customers
 3195,49,9,8409.64,3,5,4,354,Average Customers
 3196,50,7,7505.92,3,4,4,344,Average Customers
-3197,3,5,5284.57,5,2,3,523,New Customers
+3197,3,5,5284.57,5,2,2,522,New Customers
 3198,101,4,5693.18,1,1,3,113,Lost Customers
 3199,13,8,10703.79,5,4,5,545,Potential Loyalists
 3200,39,5,4865.6900000000005,3,2,2,322,Average Customers
@@ -3200,12 +3200,12 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 3204,34,9,12368.289999999999,3,5,5,355,Loyal Customers
 3205,96,6,6054.93,2,3,3,233,Lost Customers
 3206,75,7,7842.21,2,4,4,244, At Risk
-3207,81,5,3751.87,2,2,2,222,Lost Customers
+3207,81,5,3751.87,2,2,1,221,Lost Customers
 3208,53,8,9638.46,3,4,5,345,Average Customers
 3209,9,4,3112.43,5,1,1,511,New Customers
 3210,9,5,3992.06,5,2,2,522,New Customers
 3211,35,3,3667.73,3,1,1,311,Average Customers
-3212,99,7,12326.75,2,4,5,245, At Risk
+3212,99,8,13490.52,1,4,5,145, At Risk
 3213,68,5,4363.18,2,2,2,222,Lost Customers
 3214,68,4,4838.349999999999,2,1,2,212,Lost Customers
 3215,66,7,11950.24,2,4,5,245, At Risk
@@ -3214,7 +3214,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 3218,216,5,4886.1,1,2,2,122,Lost Customers
 3219,27,8,7191.65,4,4,4,444,Potential Loyalists
 3220,40,8,7616.3,3,4,4,344,Average Customers
-3221,111,9,11096.32,1,5,5,155,Loyal Customers
+3221,111,10,11562.03,1,5,5,155,Loyal Customers
 3222,15,2,2179.35,4,1,1,411,Average Customers
 3223,14,8,8793.49,5,4,5,545,Potential Loyalists
 3224,51,9,8518.72,3,5,4,354,Average Customers
@@ -3233,11 +3233,11 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 3239,2,6,4374.75,5,3,2,532,New Customers
 3240,38,10,12357.57,3,5,5,355,Loyal Customers
 3241,7,7,9518.2,5,4,5,545,Potential Loyalists
-3242,49,7,10813.44,3,4,5,345,Average Customers
+3242,49,8,11452.82,3,4,5,345,Average Customers
 3243,163,4,4005.26,1,1,2,112,Lost Customers
 3244,21,4,3578.91,4,1,1,411,Average Customers
 3245,93,6,5577.43,2,3,3,233,Lost Customers
-3246,99,5,6186.950000000001,2,2,3,223,Lost Customers
+3246,99,5,6186.950000000001,1,2,3,123,Lost Customers
 3247,44,8,7108.27,3,4,4,344,Average Customers
 3248,58,4,3305.23,3,1,1,311,Average Customers
 3249,33,8,12502.35,3,4,5,345,Average Customers
@@ -3252,10 +3252,10 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 3258,17,8,11196.13,4,4,5,445,Potential Loyalists
 3259,32,2,1027.94,4,1,1,411,Average Customers
 3260,124,3,3833.56,1,1,2,112,Lost Customers
-3261,38,6,5630.11,3,3,3,333,Average Customers
+3261,38,7,7410.33,3,4,4,344,Average Customers
 3262,1,10,9899.64,5,5,5,555,Champions
 3263,23,5,4721.62,4,2,2,422,Average Customers
-3264,23,8,9097.93,4,4,5,445,Potential Loyalists
+3264,23,9,10978.33,4,5,5,455,Loyal Customers
 3265,88,7,3458.83,2,4,1,241,Lost Customers
 3266,71,7,6947.21,2,4,4,244, At Risk
 3267,88,6,7867.97,2,3,4,234,Lost Customers
@@ -3279,19 +3279,19 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 3285,19,6,6515.55,4,3,3,433,Average Customers
 3286,9,11,11050.25,5,5,5,555,Champions
 3287,76,3,3694.7200000000003,2,1,1,211,Lost Customers
-3288,32,6,8748.24,4,3,5,435,Average Customers
+3288,32,6,8748.24,4,3,4,434,Average Customers
 3289,69,5,7683.389999999999,2,2,4,224,Lost Customers
 3290,2,8,9719.34,5,4,5,545,Potential Loyalists
 3291,46,4,3946.9500000000003,3,1,2,312,Average Customers
 3292,301,1,60.34,1,1,1,111,Lost Customers
 3293,0,5,4716.33,5,2,2,522,New Customers
-3294,62,4,6769.75,2,1,4,214,Lost Customers
+3294,62,4,6769.75,2,1,3,213,Lost Customers
 3295,19,8,10279.81,4,4,5,445,Potential Loyalists
 3296,64,11,8887.0,2,5,5,255,Loyal Customers
 3297,58,6,4162.96,3,3,2,332,Average Customers
 3298,4,5,6502.58,5,2,3,523,New Customers
 3299,30,5,4560.97,4,2,2,422,Average Customers
-3300,15,6,8221.25,4,3,4,434,Average Customers
+3300,15,7,9878.11,4,4,5,445,Potential Loyalists
 3301,42,5,4630.47,3,2,2,322,Average Customers
 3302,20,5,3954.1099999999997,4,2,2,422,Average Customers
 3303,20,5,4834.35,4,2,2,422,Average Customers
@@ -3313,7 +3313,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 3319,22,7,7042.889999999999,4,4,4,444,Potential Loyalists
 3320,137,10,10109.98,1,5,5,155,Loyal Customers
 3321,96,3,2952.52,2,1,1,211,Lost Customers
-3322,141,3,3034.55,1,1,1,111,Lost Customers
+3322,2,4,4598.49,5,1,2,512,New Customers
 3323,115,5,6500.54,1,2,3,123,Lost Customers
 3324,31,7,10846.51,4,4,5,445,Potential Loyalists
 3325,45,5,5709.18,3,2,3,323,Average Customers
@@ -3321,10 +3321,10 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 3327,56,8,6320.06,3,4,3,343,Average Customers
 3328,40,4,3511.62,3,1,1,311,Average Customers
 3329,18,4,3348.29,4,1,1,411,Average Customers
-3330,22,8,8810.21,4,4,5,445,Potential Loyalists
+3330,22,9,8960.72,4,5,5,455,Loyal Customers
 3331,36,5,7702.42,3,2,4,324,Average Customers
 3332,5,6,6577.57,5,3,3,533,New Customers
-3333,191,5,5296.389999999999,1,2,3,123,Lost Customers
+3333,191,5,5296.389999999999,1,2,2,122,Lost Customers
 3334,73,8,5742.35,2,4,3,243,Lost Customers
 3335,3,7,5555.54,5,4,3,543,New Customers
 3336,74,6,9153.34,2,3,5,235,Lost Customers
@@ -3333,7 +3333,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 3339,38,6,4271.22,3,3,2,332,Average Customers
 3340,113,6,6462.47,1,3,3,133,Lost Customers
 3341,49,4,3646.81,3,1,1,311,Average Customers
-3342,100,7,6736.7,1,4,4,144, At Risk
+3342,100,7,6736.7,1,4,3,143,Lost Customers
 3343,78,6,6667.84,2,3,3,233,Lost Customers
 3344,10,7,6236.96,5,4,3,543,New Customers
 3345,31,5,3926.35,4,2,2,422,Average Customers
@@ -3344,13 +3344,13 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 3350,38,6,9352.56,3,3,5,335,Average Customers
 3351,39,6,7191.88,3,3,4,334,Average Customers
 3352,30,7,5559.64,4,4,3,443,Average Customers
-3353,30,7,5270.16,4,4,3,443,Average Customers
+3353,30,7,5270.16,4,4,2,442,Average Customers
 3354,182,2,3213.07,1,1,1,111,Lost Customers
-3355,0,5,5543.530000000001,5,2,3,523,New Customers
+3355,0,6,5854.1,5,3,3,533,New Customers
 3356,4,5,6281.6900000000005,5,2,3,523,New Customers
 3357,35,4,3897.31,3,1,2,312,Average Customers
-3358,37,6,7750.18,3,3,4,334,Average Customers
-3359,97,4,2920.95,2,1,1,211,Lost Customers
+3358,37,7,7810.9,3,4,4,344,Average Customers
+3359,97,5,3839.38,2,2,2,222,Lost Customers
 3360,57,8,6162.1900000000005,3,4,3,343,Average Customers
 3361,44,6,8548.95,3,3,4,334,Average Customers
 3362,86,3,1983.8400000000001,2,1,1,211,Lost Customers
@@ -3364,9 +3364,9 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 3370,42,7,7469.49,3,4,4,344,Average Customers
 3371,41,9,8400.31,3,5,4,354,Average Customers
 3372,31,6,7238.88,4,3,4,434,Average Customers
-3373,44,5,6773.370000000001,3,2,4,324,Average Customers
+3373,44,5,6773.370000000001,3,2,3,323,Average Customers
 3374,1,4,6246.4400000000005,5,1,3,513,New Customers
-3375,12,8,8710.18,5,4,5,545,Potential Loyalists
+3375,12,8,8710.18,5,4,4,544,Potential Loyalists
 3376,93,5,4239.54,2,2,2,222,Lost Customers
 3377,77,7,6701.91,2,4,3,243,Lost Customers
 3378,55,4,4651.77,3,1,2,312,Average Customers
@@ -3375,8 +3375,8 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 3381,195,5,7129.37,1,2,4,124,Lost Customers
 3382,19,10,10347.49,4,5,5,455,Loyal Customers
 3383,29,6,7014.41,4,3,4,434,Average Customers
-3384,247,5,5706.6,1,2,3,123,Lost Customers
-3385,54,3,2629.8199999999997,3,1,1,311,Average Customers
+3384,29,6,7402.02,4,3,4,434,Average Customers
+3385,54,4,3317.72,3,1,1,311,Average Customers
 3386,7,5,4407.639999999999,5,2,2,522,New Customers
 3387,82,8,10309.67,2,4,5,245, At Risk
 3388,25,8,9307.45,4,4,5,445,Potential Loyalists
@@ -3390,9 +3390,9 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 3396,71,2,586.65,2,1,1,211,Lost Customers
 3397,89,2,2179.35,2,1,1,211,Lost Customers
 3398,65,5,4872.530000000001,2,2,2,222,Lost Customers
-3399,37,4,5815.25,3,1,3,313,Average Customers
+3399,37,5,6052.6900000000005,3,2,3,323,Average Customers
 3400,26,4,2797.13,4,1,1,411,Average Customers
-3401,66,6,6768.02,2,3,4,234,Lost Customers
+3401,66,6,6768.02,2,3,3,233,Lost Customers
 3402,12,9,10700.79,5,5,5,555,Champions
 3403,133,4,4516.0199999999995,1,1,2,112,Lost Customers
 3404,51,5,5162.17,3,2,2,322,Average Customers
@@ -3412,7 +3412,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 3418,90,5,4643.87,2,2,2,222,Lost Customers
 3419,5,3,4108.62,5,1,2,512,New Customers
 3420,5,11,13885.45,5,5,5,555,Champions
-3421,28,9,11268.79,4,5,5,455,Loyal Customers
+3421,28,10,12000.2,4,5,5,455,Loyal Customers
 3422,32,5,5634.98,4,2,3,423,Average Customers
 3423,77,4,3061.5,2,1,1,211,Lost Customers
 3424,153,2,2940.52,1,1,1,111,Lost Customers
@@ -3439,7 +3439,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 3445,14,6,7992.1900000000005,5,3,4,534,New Customers
 3446,4,2,1028.53,5,1,1,511,New Customers
 3447,83,11,12339.37,2,5,5,255,Loyal Customers
-3448,10,5,5257.04,5,2,3,523,New Customers
+3448,10,5,5257.04,5,2,2,522,New Customers
 3449,149,4,4223.1900000000005,1,1,2,112,Lost Customers
 3450,98,6,7360.77,2,3,4,234,Lost Customers
 3451,15,9,7139.17,4,5,4,454,Potential Loyalists
@@ -3455,7 +3455,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 3461,136,7,8401.21,1,4,4,144, At Risk
 3462,21,5,5392.75,4,2,3,423,Average Customers
 3463,57,4,3021.68,3,1,1,311,Average Customers
-3464,17,1,748.17,4,1,1,411,Average Customers
+3464,17,2,1891.06,4,1,1,411,Average Customers
 3465,72,10,10063.64,2,5,5,255,Loyal Customers
 3466,68,3,2421.71,2,1,1,211,Lost Customers
 3467,5,6,8292.41,5,3,4,534,New Customers
@@ -3466,7 +3466,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 3472,5,6,6900.7,5,3,4,534,New Customers
 3473,12,4,5487.64,5,1,3,513,New Customers
 3474,71,5,4654.08,2,2,2,222,Lost Customers
-3475,3,4,3785.92,5,1,2,512,New Customers
+3475,3,4,3785.92,5,1,1,511,New Customers
 3476,50,5,2254.2599999999998,3,2,1,321,Average Customers
 3477,64,8,10212.17,2,4,5,245, At Risk
 3478,29,6,6445.49,4,3,3,433,Average Customers
@@ -3488,7 +3488,7 @@ customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,Segment
 3494,4,4,5122.71,5,1,2,512,New Customers
 3495,13,7,8626.65,5,4,4,544,Potential Loyalists
 3496,256,4,4725.38,1,1,2,112,Lost Customers
-3497,52,3,3744.0699999999997,3,1,2,312,Average Customers
+3497,52,3,3744.0699999999997,3,1,1,311,Average Customers
 3498,127,6,5177.0599999999995,1,3,2,132,Lost Customers
 3499,51,7,7673.4800000000005,3,4,4,344,Average Customers
 3500,144,6,4922.41,1,3,2,132,Lost Customers

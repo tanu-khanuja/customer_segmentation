@@ -29,28 +29,86 @@ The raw data comprises four distinct sheets from an Excel file:
 ## Visualizations
 
 ### Customer Distribution by Segments
-![Customer Distribution by Segments](customer_distribution_in_segments.png)
+![Customer Distribution by Segments][notebooks/customer_distribution_in_segments.png]
+![Profit by Brands][notebooks/brandwise_profit.png]
+![Customer Segment Distribution by States][notebooks/customer_segments_by_states.png]
+![Customers Distribution by Age][notebooks/customers_by_age.png]
+![Age-wise Profit Distribution][notebooks/profits_by_age.png]
+![Industry-wise Profit Distribution][notebooks/profits_by_industry.png]
+![Customer Segments-wise Profit Distribution][notebooks/profits_by_segments.png]
+![Customer Segments-wise State Distribution][notebooks/states_with_segmentation.png]
+![Monetary vs Frequency][notebooks/monetary_vs_frequency.png]
+![Monetary vs Recency][notebooks/monetary_vs_recency.png]
 
-### Monetary vs Recency
+## Observations and Suggestions
 
-![Monetary Values wrt Recency days ](images/customer_segments_by_state.png)
+1. Customer Distribution by Segment
 
-*Figure 1: Distribution of customer segments across different states.*
+**Observation**: Highest number of customers are in "Lost Customers" and "Average Customers."
+**Suggestive steps**:
+- Implement retention strategies for "Lost Customers."
+- Engage "Average Customers" to convert them into "Loyal Customers."
 
-### Agewise Customer Distribution
+2. Segment-wise Profit
+**Observation**: "Average Customers" and "Lost Customers" contribute significantly to profit.
+**Suggestive steps**:
+- Focus marketing efforts on "New Customers" and "Potential Loyalists."
+- Introduce loyalty programs to enhance profitability.
 
-![Agewise Customer Distribution](images/agewise_customer_distribution.png)
+3. Brandwise Profit
+**Observation**: WeareA2B and Solex are the most profitable brands.
+**Suggestive steps**: 
+- Prioritize marketing campaigns for top-performing brands.
+- Offer cross-brand promotions to maximize revenue.
 
-*Figure 2: Distribution of customers across various age groups.*
+4. Customer Segments Distribution by State
 
-### Profit by Industry
+**Observation**: NSW and VIC have the highest "Lost Customers."
+**Suggestive steps**:
+- Develop region-specific strategies to convert "Average Customers" to "Loyal Customers."
+- Enhance retention initiatives in QLD.
 
-![Profit by Industry](images/profit_by_industry.png)
+5. Agewise Customer Distribution and Profit
+**Observation**: "Established Career Age" group is the most profitable.
+**Suggestions**:
+- Target marketing campaigns at "Established Career Age" and "Early Career Age" groups.
+- Offer promotions and financing options to these segments.
 
-*Figure 3: Profit distribution across different industry sectors.*
+6. Profit by Industry
+**Observation**: Manufacturing and Financial Services are top industries by profit.
+**Suggestions**:
+- Explore partnerships with top industries.
+- Leverage industry networks to increase sales.
 
-### Profit by Segments
 
-![Profit by Segments](images/profit_by_segments.png)
+## Files and Structure
 
-*Figure 4: Contribution of different customer segments to overall profit.*
+- **Data Files**:
+  - Raw Data: `Raw_data.xlsx`
+  - Cleaned data: 
+  1. `transaction_data_cleaned.csv`
+  2. `new_customer_cleaned.csv`
+  3. `customer_demography_cleaned.csv`
+  4. `customer_address_cleaned.csv`
+  5. `rfm_data.csv`
+
+- **Analysis Notebooks**:
+Data cleaning for each sheet:
+  1. `transaction_data_cleaning.ipynb`
+  2. `new_customer_cleaning.ipynb`
+  3. `customer_demography_cleaning.ipynb`
+  4. `customer_address_cleaning.ipynb`
+
+For RFM analysis and customer segmentation: `RFM_Analysis.ipynb`
+For complete data analysis and Visualization: `combined_data_analysis.ipynb`analysis.
+
+## Tools and Libraries
+
+- **Python Libraries**: Pandas, Plotly, Ipython
+- **Jupyter Notebooks**: Used for data cleaning, analysis, and visualization.
+
+## How to Run
+
+1. **Install Required Libraries**:
+   ```bash
+   pip install pandas plotly ipython
